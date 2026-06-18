@@ -1,0 +1,3 @@
+# Only the network enrichers need this; the offline build (GAMES_DISABLE=wikipedia,wikidata)
+# runs on the standard library alone.
+requests

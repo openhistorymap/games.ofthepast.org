@@ -1,0 +1,78 @@
+{
+  "id": "par-impar",
+  "name": "Par Impar",
+  "native": "Par impar ludere",
+  "aka": [
+    "Odds and evens"
+  ],
+  "category": "guessing",
+  "origin": "Ancient Rome",
+  "region": "Europe",
+  "era": "all periods",
+  "players": "2",
+  "duration": "2 min",
+  "wp": "Odds and evens (hand game)",
+  "reconstruction": false,
+  "tagline": "Odd or even? A fistful of nuts and a guess — the simplest wager of all.",
+  "rules": {
+    "objective": "Guess whether the hidden number of counters is odd or even.",
+    "setup": "A handful of small counters — nuts, knucklebones or coins. One player is the hider.",
+    "howToPlay": [
+      "The hider conceals some counters in a closed fist.",
+      "The guesser calls 'par!' (even) or 'impar!' (odd).",
+      "Open the hand and count.",
+      "A correct guess wins the counters or the stake; a wrong guess loses it. Swap roles and repeat."
+    ],
+    "winning": "Play to an agreed pot or number of rounds; the richer hand wins.",
+    "variants": [
+      "Guess the exact number for a bigger payout.",
+      "Roman children played it with walnuts."
+    ],
+    "players": "2",
+    "duration": "2 min"
+  },
+  "context": {
+    "period": "Roman, all periods — a children's and tavern game",
+    "blurb": "Par impar ludere — 'to play odds and evens' — needed nothing but a hand and a few nuts or coins. One player hid a number of counters in a fist and the other guessed odd or even. Suetonius lists it among the emperor Augustus' easy amusements, and it appears on wall paintings and in children's games with walnuts. It is the most minimal of all games — pure luck and a quick wager — and versions are played the world over.",
+    "sources": [
+      "Suetonius, Divus Augustus 71.",
+      "Ovid, Nux; Martial, Epigrams V.84."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYyMCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIyMiIgeT0iMjIiIHdpZHRoPSI4NTYiIGhlaWdodD0iNTc2IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjMyIiB5PSIzMiIgd2lkdGg9IjgzNiIgaGVpZ2h0PSI1NTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGVsbGlwc2UgY3g9IjQ1MC4wIiBjeT0iMzEwLjAiIHJ4PSIyNTAiIHJ5PSIxNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjUiLz48dGV4dCB4PSI0NTAuMCIgeT0iMzMyLjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9Ijg0IiBsZXR0ZXItc3BhY2luZz0iMTIiIGZpbGw9IiM2YjRhMmEiIG9wYWNpdHk9IjAuMjIiPlBBUiDCtyBJTVBBUjwvdGV4dD48L3N2Zz4=",
+    "aspect": 1.4516,
+    "color": "#211a12",
+    "pieceSize": 0.06
+  },
+  "pieces": [
+    {
+      "type": "nut",
+      "label": "Nut (counter)",
+      "glyph": "🌰"
+    },
+    {
+      "type": "fist",
+      "label": "Closed fist",
+      "glyph": "✊"
+    },
+    {
+      "type": "coin",
+      "label": "As (coin)",
+      "glyph": "✸",
+      "color": "#c8a24e",
+      "bg": "#3a2c1a"
+    }
+  ],
+  "setup": [],
+  "turns": {
+    "players": [
+      "Celator (hider)",
+      "Coniector (guesser)"
+    ],
+    "track": true
+  },
+  "category_label": "Hand & guess",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/par-impar.json"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "oware",
+  "name": "Oware",
+  "native": "Oware / Awalé",
+  "aka": [
+    "Wari",
+    "Awalé",
+    "Ayò",
+    "Awele"
+  ],
+  "category": "sowing",
+  "origin": "Akan peoples (Ghana)",
+  "region": "Africa",
+  "era": "traditional",
+  "players": "2",
+  "duration": "10–20 min",
+  "wp": "Oware",
+  "reconstruction": false,
+  "tagline": "West Africa's great game of sowing — scatter seeds and reap your opponent's row.",
+  "rules": {
+    "objective": "Capture more than half of the 48 seeds.",
+    "setup": "Two rows of six pits, with a store at each end. Each of the twelve pits starts with four seeds.",
+    "howToPlay": [
+      "On your turn, lift all the seeds from one of your own pits and 'sow' them one by one into the following pits, going anticlockwise.",
+      "If your last seed drops into an enemy pit making its count two or three, you capture those seeds — and any unbroken run of twos and threes behind it in the enemy row.",
+      "You must, where possible, play a move that leaves the opponent at least one seed (you may not starve them)."
+    ],
+    "winning": "When seeds run low or a position repeats, each player takes the seeds on their side; whoever holds more than 24 wins.",
+    "variants": [
+      "Regional rules differ on capturing, 'grand slams', and starvation; agree yours first."
+    ],
+    "players": "2",
+    "duration": "10–20 min"
+  },
+  "context": {
+    "period": "West Africa, traditional (and across the diaspora)",
+    "blurb": "Oware — awalé in French-speaking West Africa, wari in the Caribbean — is the best known of the hundreds of mancala 'sowing' games played across Africa and Asia. Among the Akan of Ghana it carries proverbs and rituals; carved oware boards are a signature craft. Despite its bare equipment — two rows of holes and forty-eight seeds — it is a game of deep calculation, and one of the very few traditional games to have been weakly solved by computer.",
+    "sources": [
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford.",
+      "Russ, L. (2000). The Complete Mancala Games Book."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDUwIDMxOCIgd2lkdGg9IjEwNTAiIGhlaWdodD0iMzE4Ij48cmVjdCB3aWR0aD0iMTA1MCIgaGVpZ2h0PSIzMTgiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIxNS4wIiB5PSIxNS4wIiB3aWR0aD0iMTAyMCIgaGVpZ2h0PSIyODgiIHJ4PSI0NiIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjYiLz48cmVjdCB4PSIzMCIgeT0iMzAiIHdpZHRoPSIxMzAiIGhlaWdodD0iMjU4IiByeD0iNjUuMCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48cmVjdCB4PSI4OTAiIHk9IjMwIiB3aWR0aD0iMTMwIiBoZWlnaHQ9IjI1OCIgcng9IjY1LjAiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMjMwIiBjeT0iMTAwIiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIzNDgiIGN5PSIxMDAiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjQ2NiIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iNTg0IiBjeT0iMTAwIiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI3MDIiIGN5PSIxMDAiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjgyMCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMjMwIiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIzNDgiIGN5PSIyMTgiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjQ2NiIgY3k9IjIxOCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iNTg0IiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI3MDIiIGN5PSIyMTgiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjgyMCIgY3k9IjIxOCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PC9zdmc+",
+    "aspect": 3.3019,
+    "color": "#211a12",
+    "pieceSize": 0.022
+  },
+  "pieces": [
+    {
+      "type": "seed",
+      "label": "Seed",
+      "glyph": "",
+      "bg": "#6b4a2a"
+    }
+  ],
+  "setup": [],
+  "turns": {
+    "players": [
+      "South",
+      "North"
+    ],
+    "track": true
+  },
+  "category_label": "Sowing",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/oware.json"
+}

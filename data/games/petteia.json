@@ -1,0 +1,155 @@
+{
+  "id": "petteia",
+  "name": "Petteia",
+  "native": "πεττεία",
+  "aka": [
+    "Poleis",
+    "Polis",
+    "Cities"
+  ],
+  "category": "war",
+  "origin": "Ancient Greece",
+  "region": "Europe",
+  "era": "c. 5th c. BCE",
+  "players": "2",
+  "duration": "15–30 min",
+  "wp": "Petteia",
+  "reconstruction": true,
+  "tagline": "The Greek war of pebbles that Plato compared to philosophy — and Rome turned into latrunculi.",
+  "rules": {
+    "objective": "Capture the enemy stones by flanking them; leave your opponent unable to move.",
+    "setup": "An 8×8 board. Each player ranges a row of stones (psephoi) of one colour along their back line.",
+    "howToPlay": [
+      "Players alternate, moving one stone any number of empty squares orthogonally (like a rook).",
+      "A stone is captured when the enemy brackets it between two of theirs along a line — custodial capture.",
+      "A stone safely moved between two enemies is not captured; only the enemy closing the trap captures."
+    ],
+    "winning": "Capture enough stones, or pin the enemy so that no legal move remains.",
+    "variants": [
+      "Boards of 6×6 to 12×12 are all attested; agree a size first.",
+      "Some reconstructions allow capture of a whole flanked line at once."
+    ],
+    "players": "2",
+    "duration": "15–30 min"
+  },
+  "context": {
+    "period": "Greek world, by the 5th c. BCE",
+    "blurb": "Petteia (also 'poleis', cities) was the Greek game of strategic capture, mentioned by Plato, who has Socrates liken skill at it to skill in argument, and by Homer's scholiasts, who imagined Penelope's suitors playing it. Stones were taken by being bracketed between two enemies. It is the direct forerunner of Rome's ludus latrunculorum; as with that game no rulebook survives, so the moves here are a reasoned reconstruction.",
+    "sources": [
+      "Plato, Republic 333b; Lysis 206e.",
+      "Kurke, L. (1999). Coins, Bodies, Games, and Gold."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2ODggNjg4IiB3aWR0aD0iNjg4IiBoZWlnaHQ9IjY4OCI+PHJlY3Qgd2lkdGg9IjY4OCIgaGVpZ2h0PSI2ODgiIGZpbGw9IiNlOGQ4YjYiLz48bGluZSB4MT0iMC4wIiB5MT0iMC4wIiB4Mj0iMC4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9Ijg2LjAiIHkxPSIwLjAiIHgyPSI4Ni4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjE3Mi4wIiB5MT0iMC4wIiB4Mj0iMTcyLjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMjU4LjAiIHkxPSIwLjAiIHgyPSIyNTguMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIzNDQuMCIgeTE9IjAuMCIgeDI9IjM0NC4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjQzMC4wIiB5MT0iMC4wIiB4Mj0iNDMwLjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNTE2LjAiIHkxPSIwLjAiIHgyPSI1MTYuMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI2MDIuMCIgeTE9IjAuMCIgeDI9IjYwMi4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjY4OC4wIiB5MT0iMC4wIiB4Mj0iNjg4LjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iMC4wIiB4Mj0iNjg4LjAiIHkyPSIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9Ijg2LjAiIHgyPSI2ODguMCIgeTI9Ijg2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjE3Mi4wIiB4Mj0iNjg4LjAiIHkyPSIxNzIuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iMjU4LjAiIHgyPSI2ODguMCIgeTI9IjI1OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSIzNDQuMCIgeDI9IjY4OC4wIiB5Mj0iMzQ0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjQzMC4wIiB4Mj0iNjg4LjAiIHkyPSI0MzAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iNTE2LjAiIHgyPSI2ODguMCIgeTI9IjUxNi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSI2MDIuMCIgeDI9IjY4OC4wIiB5Mj0iNjAyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjY4OC4wIiB4Mj0iNjg4LjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNjg4IiBoZWlnaHQ9IjY4OCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjYiLz48cmVjdCB4PSIxMCIgeT0iMTAiIHdpZHRoPSI2NjgiIGhlaWdodD0iNjY4IiBmaWxsPSJub25lIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.1025
+  },
+  "pieces": [
+    {
+      "type": "w",
+      "label": "Leukoi (white)",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b",
+      "label": "Melanes (black)",
+      "glyph": "",
+      "bg": "#2b241c"
+    }
+  ],
+  "setup": [
+    {
+      "type": "w",
+      "x": 0.0625,
+      "y": 0.9375
+    },
+    {
+      "type": "w",
+      "x": 0.1875,
+      "y": 0.9375
+    },
+    {
+      "type": "w",
+      "x": 0.3125,
+      "y": 0.9375
+    },
+    {
+      "type": "w",
+      "x": 0.4375,
+      "y": 0.9375
+    },
+    {
+      "type": "w",
+      "x": 0.5625,
+      "y": 0.9375
+    },
+    {
+      "type": "w",
+      "x": 0.6875,
+      "y": 0.9375
+    },
+    {
+      "type": "w",
+      "x": 0.8125,
+      "y": 0.9375
+    },
+    {
+      "type": "w",
+      "x": 0.9375,
+      "y": 0.9375
+    },
+    {
+      "type": "b",
+      "x": 0.0625,
+      "y": 0.0625
+    },
+    {
+      "type": "b",
+      "x": 0.1875,
+      "y": 0.0625
+    },
+    {
+      "type": "b",
+      "x": 0.3125,
+      "y": 0.0625
+    },
+    {
+      "type": "b",
+      "x": 0.4375,
+      "y": 0.0625
+    },
+    {
+      "type": "b",
+      "x": 0.5625,
+      "y": 0.0625
+    },
+    {
+      "type": "b",
+      "x": 0.6875,
+      "y": 0.0625
+    },
+    {
+      "type": "b",
+      "x": 0.8125,
+      "y": 0.0625
+    },
+    {
+      "type": "b",
+      "x": 0.9375,
+      "y": 0.0625
+    }
+  ],
+  "turns": {
+    "players": [
+      "Leukoi",
+      "Melanes"
+    ],
+    "track": true
+  },
+  "category_label": "War & strategy",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/petteia.json"
+}

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+
+# local staging for previewing web/ + data/ together (see README / CLAUDE.md)
+_site/
+
+# editor / OS
+.DS_Store
+*.swp
+
+# local agent settings
+.claude/

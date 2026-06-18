@@ -1,0 +1,130 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "chaturanga",
+  "name": "Chaturanga",
+  "description": "The Indian root of chess, shogi and xiangqi — the four arms of an ancient army.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2ODggNjg4IiB3aWR0aD0iNjg4IiBoZWlnaHQ9IjY4OCI+PHJlY3Qgd2lkdGg9IjY4OCIgaGVpZ2h0PSI2ODgiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSI4NiIgeT0iMCIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iMjU4IiB5PSIwIiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSI0MzAiIHk9IjAiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjYwMiIgeT0iMCIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iMCIgeT0iODYiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjE3MiIgeT0iODYiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjM0NCIgeT0iODYiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjUxNiIgeT0iODYiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9Ijg2IiB5PSIxNzIiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjI1OCIgeT0iMTcyIiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSI0MzAiIHk9IjE3MiIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iNjAyIiB5PSIxNzIiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjAiIHk9IjI1OCIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iMTcyIiB5PSIyNTgiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjM0NCIgeT0iMjU4IiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSI1MTYiIHk9IjI1OCIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iODYiIHk9IjM0NCIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iMjU4IiB5PSIzNDQiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjQzMCIgeT0iMzQ0IiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSI2MDIiIHk9IjM0NCIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iMCIgeT0iNDMwIiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSIxNzIiIHk9IjQzMCIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iMzQ0IiB5PSI0MzAiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjUxNiIgeT0iNDMwIiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSI4NiIgeT0iNTE2IiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSIyNTgiIHk9IjUxNiIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iNDMwIiB5PSI1MTYiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjYwMiIgeT0iNTE2IiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSIwIiB5PSI2MDIiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxyZWN0IHg9IjE3MiIgeT0iNjAyIiB3aWR0aD0iODYiIGhlaWdodD0iODYiIGZpbGw9IiNkOWMzOTkiLz48cmVjdCB4PSIzNDQiIHk9IjYwMiIgd2lkdGg9Ijg2IiBoZWlnaHQ9Ijg2IiBmaWxsPSIjZDljMzk5Ii8+PHJlY3QgeD0iNTE2IiB5PSI2MDIiIHdpZHRoPSI4NiIgaGVpZ2h0PSI4NiIgZmlsbD0iI2Q5YzM5OSIvPjxsaW5lIHgxPSIwLjAiIHkxPSIwLjAiIHgyPSIwLjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iODYuMCIgeTE9IjAuMCIgeDI9Ijg2LjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMTcyLjAiIHkxPSIwLjAiIHgyPSIxNzIuMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIyNTguMCIgeTE9IjAuMCIgeDI9IjI1OC4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjM0NC4wIiB5MT0iMC4wIiB4Mj0iMzQ0LjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNDMwLjAiIHkxPSIwLjAiIHgyPSI0MzAuMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI1MTYuMCIgeTE9IjAuMCIgeDI9IjUxNi4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjYwMi4wIiB5MT0iMC4wIiB4Mj0iNjAyLjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNjg4LjAiIHkxPSIwLjAiIHgyPSI2ODguMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSIwLjAiIHgyPSI2ODguMCIgeTI9IjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iODYuMCIgeDI9IjY4OC4wIiB5Mj0iODYuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iMTcyLjAiIHgyPSI2ODguMCIgeTI9IjE3Mi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSIyNTguMCIgeDI9IjY4OC4wIiB5Mj0iMjU4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjM0NC4wIiB4Mj0iNjg4LjAiIHkyPSIzNDQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iNDMwLjAiIHgyPSI2ODguMCIgeTI9IjQzMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSI1MTYuMCIgeDI9IjY4OC4wIiB5Mj0iNTE2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjYwMi4wIiB4Mj0iNjg4LjAiIHkyPSI2MDIuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iNjg4LjAiIHgyPSI2ODguMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2ODgiIGhlaWdodD0iNjg4IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjY2OCIgaGVpZ2h0PSI2NjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.1025
+  },
+  "pieces": [
+    {
+      "type": "w-raja",
+      "label": "Rājā (white king)",
+      "glyph": "♔",
+      "color": "#2b241c",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "w-mantri",
+      "label": "Mantri (counsellor)",
+      "glyph": "♕",
+      "color": "#2b241c",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "w-ratha",
+      "label": "Ratha (chariot)",
+      "glyph": "♖",
+      "color": "#2b241c",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "w-gaja",
+      "label": "Gaja (elephant)",
+      "glyph": "♗",
+      "color": "#2b241c",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "w-ashva",
+      "label": "Ashva (horse)",
+      "glyph": "♘",
+      "color": "#2b241c",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "w-padati",
+      "label": "Padāti (foot)",
+      "glyph": "♙",
+      "color": "#2b241c",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b-raja",
+      "label": "Rājā (black king)",
+      "glyph": "♚",
+      "color": "#efe4cc",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "b-mantri",
+      "label": "Mantri (counsellor)",
+      "glyph": "♛",
+      "color": "#efe4cc",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "b-ratha",
+      "label": "Ratha (chariot)",
+      "glyph": "♜",
+      "color": "#efe4cc",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "b-gaja",
+      "label": "Gaja (elephant)",
+      "glyph": "♝",
+      "color": "#efe4cc",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "b-ashva",
+      "label": "Ashva (horse)",
+      "glyph": "♞",
+      "color": "#efe4cc",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "b-padati",
+      "label": "Padāti (foot)",
+      "glyph": "♟",
+      "color": "#efe4cc",
+      "bg": "#2b241c"
+    }
+  ],
+  "turns": {
+    "players": [
+      "White",
+      "Black"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Capture or trap the enemy rājā (king).",
+    "setup": "An 8×8 board (ashtāpada), unchequered in origin. Each side lines up a back row — chariot, horse, elephant, king and counsellor, elephant, horse, chariot — with eight foot-soldiers in front.",
+    "howToPlay": [
+      "Players alternate, moving one piece. The rājā steps one square any direction.",
+      "The ratha (chariot) moves like the rook; the ashva (horse) like the knight.",
+      "The gaja (elephant) and the mantri (counsellor) are weak short-range pieces in the old game — the powerful bishop and queen are later medieval inventions.",
+      "The padāti (foot-soldier) advances one square and captures diagonally, much like a pawn."
+    ],
+    "winning": "Checkmating or capturing the rājā wins. Some texts also award the game for stripping the enemy of every piece but the king.",
+    "variants": [
+      "Chaturaji — a four-handed dice version for four players.",
+      "Exact powers of the elephant and counsellor vary between reconstructions and regions."
+    ],
+    "players": "2",
+    "duration": "20–45 min"
+  },
+  "context": {
+    "period": "India, by the 6th–7th c. CE (Gupta period)",
+    "blurb": "Chaturanga — 'four limbs', the four divisions of an Indian army: infantry, cavalry, elephants and chariots — is the common ancestor of chess, of Persian shatranj, of Chinese xiangqi and Japanese shogi. It first appears clearly in Sanskrit sources around the 6th–7th c. CE. The exact movement of some pieces is debated; the version below follows the standard scholarly reconstruction, which is why we flag it — the medieval queen and bishop are NOT part of this older game.",
+    "sources": [
+      "Murray, H. J. R. (1913). A History of Chess. Oxford.",
+      "Bidev, P. (1986). Chess — A Mathematical Mystery Tour."
+    ]
+  }
+}

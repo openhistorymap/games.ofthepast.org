@@ -1,0 +1,88 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "patolli",
+  "name": "Patolli",
+  "description": "The Aztec race played for stakes — and watched over by Macuilxochitl, god of games.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDQ0IDEwNDQiIHdpZHRoPSIxMDQ0IiBoZWlnaHQ9IjEwNDQiPjxyZWN0IHdpZHRoPSIxMDQ0IiBoZWlnaHQ9IjEwNDQiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSI0NjQiIHk9IjAiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1MjIiIHk9IjAiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0NjQiIHk9IjU4IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTIyIiB5PSI1OCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ2NCIgeT0iMTE2IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTIyIiB5PSIxMTYiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0NjQiIHk9IjE3NCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjUyMiIgeT0iMTc0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNDY0IiB5PSIyMzIiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1MjIiIHk9IjIzMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ2NCIgeT0iMjkwIiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTIyIiB5PSIyOTAiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0NjQiIHk9IjM0OCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjUyMiIgeT0iMzQ4IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNDY0IiB5PSI0MDYiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1MjIiIHk9IjQwNiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ2NCIgeT0iNTgwIiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTIyIiB5PSI1ODAiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0NjQiIHk9IjYzOCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjUyMiIgeT0iNjM4IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNDY0IiB5PSI2OTYiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1MjIiIHk9IjY5NiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ2NCIgeT0iNzU0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTIyIiB5PSI3NTQiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0NjQiIHk9IjgxMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjUyMiIgeT0iODEyIiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNDY0IiB5PSI4NzAiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1MjIiIHk9Ijg3MCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ2NCIgeT0iOTI4IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTIyIiB5PSI5MjgiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0NjQiIHk9Ijk4NiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjUyMiIgeT0iOTg2IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMCIgeT0iNDY0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTgiIHk9IjQ2NCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjExNiIgeT0iNDY0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMTc0IiB5PSI0NjQiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIyMzIiIHk9IjQ2NCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjI5MCIgeT0iNDY0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMzQ4IiB5PSI0NjQiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0MDYiIHk9IjQ2NCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjAiIHk9IjUyMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjU4IiB5PSI1MjIiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIxMTYiIHk9IjUyMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjE3NCIgeT0iNTIyIiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMjMyIiB5PSI1MjIiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIyOTAiIHk9IjUyMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjM0OCIgeT0iNTIyIiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNDA2IiB5PSI1MjIiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1ODAiIHk9IjQ2NCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjYzOCIgeT0iNDY0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNjk2IiB5PSI0NjQiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI3NTQiIHk9IjQ2NCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjgxMiIgeT0iNDY0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iODcwIiB5PSI0NjQiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI5MjgiIHk9IjQ2NCIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9Ijk4NiIgeT0iNDY0IiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTgwIiB5PSI1MjIiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI2MzgiIHk9IjUyMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjY5NiIgeT0iNTIyIiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNzU0IiB5PSI1MjIiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI4MTIiIHk9IjUyMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9Ijg3MCIgeT0iNTIyIiB3aWR0aD0iNTgiIGhlaWdodD0iNTgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iOTI4IiB5PSI1MjIiIHdpZHRoPSI1OCIgaGVpZ2h0PSI1OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI5ODYiIHk9IjUyMiIgd2lkdGg9IjU4IiBoZWlnaHQ9IjU4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ2NCIgeT0iNDY0IiB3aWR0aD0iMTE2IiBoZWlnaHQ9IjExNiIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC4xOCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNDY0LjAiIHkxPSIwLjAiIHgyPSI1ODAuMCIgeTI9IjU4LjAiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjU4MC4wIiB5MT0iMC4wIiB4Mj0iNDY0LjAiIHkyPSI1OC4wIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI0NjQuMCIgeTE9Ijk4Ni4wIiB4Mj0iNTgwLjAiIHkyPSIxMDQ0LjAiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjU4MC4wIiB5MT0iOTg2LjAiIHgyPSI0NjQuMCIgeTI9IjEwNDQuMCIgc3Ryb2tlPSIjOWM3YTQ4IiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMC4wIiB5MT0iNDY0LjAiIHgyPSI1OC4wIiB5Mj0iNTgwLjAiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjU4LjAiIHkxPSI0NjQuMCIgeDI9IjAuMCIgeTI9IjU4MC4wIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI5ODYuMCIgeTE9IjQ2NC4wIiB4Mj0iMTA0NC4wIiB5Mj0iNTgwLjAiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjEwNDQuMCIgeTE9IjQ2NC4wIiB4Mj0iOTg2LjAiIHkyPSI1ODAuMCIgc3Ryb2tlPSIjOWM3YTQ4IiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.028
+  },
+  "pieces": [
+    {
+      "type": "a",
+      "label": "Blue stones",
+      "glyph": "",
+      "bg": "#3a6ea5"
+    },
+    {
+      "type": "b",
+      "label": "Red stones",
+      "glyph": "",
+      "bg": "#a8412e"
+    },
+    {
+      "type": "c",
+      "label": "Green stones",
+      "glyph": "",
+      "bg": "#3f7a55"
+    },
+    {
+      "type": "d",
+      "label": "Yellow stones",
+      "glyph": "",
+      "bg": "#d8a73a"
+    }
+  ],
+  "dice": [
+    {
+      "id": "beans",
+      "label": "Marked beans",
+      "glyph": "🫘",
+      "count": 5,
+      "faces": [
+        {
+          "label": "• marked",
+          "value": 1
+        },
+        {
+          "label": "blank",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "turns": {
+    "players": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Race your six stones around the X-shaped track from your entry to the far end and back, before your opponent — winning the other's wagered goods.",
+    "setup": "A cross/X board of squares with marked entry and exit squares. Each player has six coloured stones and a stake of beans, jade or blankets. Throw five marked beans for movement.",
+    "howToPlay": [
+      "Throw the five pierced beans and count the marked faces up (1–5); a throw of zero marks (all blank) is special, often forfeiting the turn.",
+      "Enter and advance a stone along your arms of the cross by the count.",
+      "Landing on certain squares wins a stake from each opponent or sends a stone back; the central and end squares are dangerous."
+    ],
+    "winning": "The first to run all six stones home takes the pot. Aztecs bet heavily — sometimes their own freedom — on the result.",
+    "variants": [
+      "Boards of differing arm lengths and bean counts appear across Mesoamerica; the exact path and scoring are reconstructed."
+    ],
+    "players": "2–4",
+    "duration": "20–40 min"
+  },
+  "context": {
+    "period": "Mesoamerica, Classic period through the Aztec empire",
+    "blurb": "Patolli was the great gambling race game of Mesoamerica, played from at least the Classic Maya period and described by Spanish chroniclers — Diego Durán, Sahagún — at the Aztec court, where players invoked Macuilxochitl, the god of games, and carried their marked beans in a special pouch. Stakes were real and ruinous. The Spanish suppressed it as idolatrous, burning boards and beans, so its exact rules are partly reconstructed from the codices and chronicles — hence our flag.",
+    "sources": [
+      "Durán, D. (1581). Historia de las Indias de Nueva España.",
+      "Tylor, E. B. (1879). 'On the Game of Patolli in Ancient Mexico.' JRAI."
+    ]
+  }
+}

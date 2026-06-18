@@ -1,0 +1,144 @@
+{
+  "id": "senet",
+  "name": "Senet",
+  "native": "znt",
+  "aka": [
+    "Passing",
+    "The game of thirty squares"
+  ],
+  "category": "race",
+  "origin": "Ancient Egypt",
+  "region": "Africa",
+  "era": "by c. 3100 BCE",
+  "players": "2",
+  "duration": "15–30 min",
+  "wp": "Senet",
+  "reconstruction": true,
+  "tagline": "Humanity's oldest board game — race your pieces past the houses of the dead.",
+  "rules": {
+    "objective": "Be the first to move all your pieces along the thirty squares and bear them off the board.",
+    "setup": "Three rows of ten squares, run in a boustrophedon S. Each player has five pieces (cones vs spools), placed alternately on the opening squares. Throw four casting sticks for movement.",
+    "howToPlay": [
+      "Cast the four two-sided sticks: count the light faces up (0–4); a throw of 0 counts as 5 and grants another throw, as do 1 and 4 in most reconstructions.",
+      "Move one piece forward by the throw along the S-path. You may not land on your own piece.",
+      "Landing on a lone enemy piece swaps places with it. Two friendly pieces in a row are a blockade; three cannot be passed.",
+      "The marked 'houses' near the end are special: the House of Water (square 27) sends a piece back; the last squares require exact or favourable throws to exit."
+    ],
+    "winning": "The first player to bear off all five pieces wins — and, the Egyptians believed, passes safely into the afterlife.",
+    "variants": [
+      "The number of starting pieces (five or seven) and the exact powers of the end squares differ between reconstructions."
+    ],
+    "players": "2",
+    "duration": "15–30 min"
+  },
+  "context": {
+    "period": "Egypt, Predynastic to the end of the New Kingdom (c. 3100–1100 BCE)",
+    "blurb": "Senet — 'passing' — is the oldest known board game, played in Egypt for over three thousand years. Boards appear in Predynastic graves and painted on tomb walls; Queen Nefertari is shown playing alone in her tomb. By the New Kingdom it had become a journey of the soul through the underworld, the squares standing for perils of the afterlife. No rulebook survives, so the play below is a modern reconstruction (chiefly Timothy Kendall's and R. C. Bell's) — honest guesswork built on the boards and the funerary texts.",
+    "sources": [
+      "Kendall, T. (1978). Passing Through the Netherworld: The Meaning and Play of Senet.",
+      "Piccione, P. A. (1980). 'In Search of the Meaning of Senet.' Archaeology 33."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAwIDMzMCIgd2lkdGg9IjExMDAiIGhlaWdodD0iMzMwIj48cmVjdCB3aWR0aD0iMTEwMCIgaGVpZ2h0PSIzMzAiIGZpbGw9IiNlOGQ4YjYiLz48bGluZSB4MT0iMC4wIiB5MT0iMC4wIiB4Mj0iMC4wIiB5Mj0iMzMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjExMC4wIiB5MT0iMC4wIiB4Mj0iMTEwLjAiIHkyPSIzMzAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMjIwLjAiIHkxPSIwLjAiIHgyPSIyMjAuMCIgeTI9IjMzMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIzMzAuMCIgeTE9IjAuMCIgeDI9IjMzMC4wIiB5Mj0iMzMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjQ0MC4wIiB5MT0iMC4wIiB4Mj0iNDQwLjAiIHkyPSIzMzAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNTUwLjAiIHkxPSIwLjAiIHgyPSI1NTAuMCIgeTI9IjMzMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI2NjAuMCIgeTE9IjAuMCIgeDI9IjY2MC4wIiB5Mj0iMzMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9Ijc3MC4wIiB5MT0iMC4wIiB4Mj0iNzcwLjAiIHkyPSIzMzAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iODgwLjAiIHkxPSIwLjAiIHgyPSI4ODAuMCIgeTI9IjMzMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI5OTAuMCIgeTE9IjAuMCIgeDI9Ijk5MC4wIiB5Mj0iMzMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjExMDAuMCIgeTE9IjAuMCIgeDI9IjExMDAuMCIgeTI9IjMzMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSIwLjAiIHgyPSIxMTAwLjAiIHkyPSIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjExMC4wIiB4Mj0iMTEwMC4wIiB5Mj0iMTEwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjIyMC4wIiB4Mj0iMTEwMC4wIiB5Mj0iMjIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjMzMC4wIiB4Mj0iMTEwMC4wIiB5Mj0iMzMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PHJlY3QgeD0iNTU0IiB5PSIyMjQiIHdpZHRoPSIxMDIiIGhlaWdodD0iMTAyIiBmaWxsPSIjZDljMzk5IiBvcGFjaXR5PSIwLjYiLz48dGV4dCB4PSI2MDUuMCIgeT0iMjg4LjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjNmI0YTJhIiBvcGFjaXR5PSIwLjc1Ij7imIU8L3RleHQ+PHJlY3QgeD0iNjY0IiB5PSIyMjQiIHdpZHRoPSIxMDIiIGhlaWdodD0iMTAyIiBmaWxsPSIjZDljMzk5IiBvcGFjaXR5PSIwLjYiLz48dGV4dCB4PSI3MTUuMCIgeT0iMjg4LjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjNmI0YTJhIiBvcGFjaXR5PSIwLjc1Ij7iiYg8L3RleHQ+PHJlY3QgeD0iNzc0IiB5PSIyMjQiIHdpZHRoPSIxMDIiIGhlaWdodD0iMTAyIiBmaWxsPSIjZDljMzk5IiBvcGFjaXR5PSIwLjYiLz48dGV4dCB4PSI4MjUuMCIgeT0iMjg4LjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjNmI0YTJhIiBvcGFjaXR5PSIwLjc1Ij5JSUk8L3RleHQ+PHJlY3QgeD0iODg0IiB5PSIyMjQiIHdpZHRoPSIxMDIiIGhlaWdodD0iMTAyIiBmaWxsPSIjZDljMzk5IiBvcGFjaXR5PSIwLjYiLz48dGV4dCB4PSI5MzUuMCIgeT0iMjg4LjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjNmI0YTJhIiBvcGFjaXR5PSIwLjc1Ij5JSTwvdGV4dD48cmVjdCB4PSI5OTQiIHk9IjIyNCIgd2lkdGg9IjEwMiIgaGVpZ2h0PSIxMDIiIGZpbGw9IiNkOWMzOTkiIG9wYWNpdHk9IjAuNiIvPjx0ZXh0IHg9IjEwNDUuMCIgeT0iMjg4LjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjM2IiBmaWxsPSIjNmI0YTJhIiBvcGFjaXR5PSIwLjc1Ij7il4k8L3RleHQ+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjExMDAiIGhlaWdodD0iMzMwIiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEwODAiIGhlaWdodD0iMzEwIiBmaWxsPSJub25lIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==",
+    "aspect": 3.3333,
+    "color": "#211a12",
+    "pieceSize": 0.045
+  },
+  "pieces": [
+    {
+      "type": "cone",
+      "label": "Cone (player 1)",
+      "glyph": "▲",
+      "color": "#efe4cc",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "spool",
+      "label": "Spool (player 2)",
+      "glyph": "●",
+      "color": "#2b241c",
+      "bg": "#efe4cc"
+    }
+  ],
+  "setup": [
+    {
+      "type": "cone",
+      "x": 0.05,
+      "y": 0.1667
+    },
+    {
+      "type": "cone",
+      "x": 0.25,
+      "y": 0.1667
+    },
+    {
+      "type": "cone",
+      "x": 0.45,
+      "y": 0.1667
+    },
+    {
+      "type": "cone",
+      "x": 0.65,
+      "y": 0.1667
+    },
+    {
+      "type": "cone",
+      "x": 0.85,
+      "y": 0.1667
+    },
+    {
+      "type": "spool",
+      "x": 0.15,
+      "y": 0.1667
+    },
+    {
+      "type": "spool",
+      "x": 0.35,
+      "y": 0.1667
+    },
+    {
+      "type": "spool",
+      "x": 0.55,
+      "y": 0.1667
+    },
+    {
+      "type": "spool",
+      "x": 0.75,
+      "y": 0.1667
+    },
+    {
+      "type": "spool",
+      "x": 0.95,
+      "y": 0.1667
+    }
+  ],
+  "dice": [
+    {
+      "id": "sticks",
+      "label": "Casting sticks",
+      "glyph": "🥢",
+      "count": 4,
+      "faces": [
+        {
+          "label": "▽ dark",
+          "value": 0
+        },
+        {
+          "label": "△ light",
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "turns": {
+    "players": [
+      "Cones",
+      "Spools"
+    ],
+    "track": true
+  },
+  "category_label": "Race & tables",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/senet.json"
+}

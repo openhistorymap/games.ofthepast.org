@@ -1,0 +1,75 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "royal-game-of-ur",
+  "name": "The Royal Game of Ur",
+  "description": "A 4,600-year-old race whose rules were read off a Babylonian clay tablet.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4ODAgMzMwIiB3aWR0aD0iODgwIiBoZWlnaHQ9IjMzMCI+PHJlY3Qgd2lkdGg9Ijg4MCIgaGVpZ2h0PSIzMzAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSI4OS4wIiB5Mj0iNTUuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSI3OS4wIiB5Mj0iNzkuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSI1NS4wIiB5Mj0iODkuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSIzMS4wIiB5Mj0iNzkuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSIyMS4wIiB5Mj0iNTUuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSIzMS4wIiB5Mj0iMzEuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSI1NS4wIiB5Mj0iMjEuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjU1LjAiIHgyPSI3OS4wIiB5Mj0iMzEuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI1NS4wIiBjeT0iNTUuMCIgcj0iMTQiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHJlY3QgeD0iMyIgeT0iMTEzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSIzIiB5PSIyMjMiIHdpZHRoPSIxMDQiIGhlaWdodD0iMTA0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI1NS4wIiB5MT0iMjc1LjAiIHgyPSI4OS4wIiB5Mj0iMjc1LjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjU1LjAiIHkxPSIyNzUuMCIgeDI9Ijc5LjAiIHkyPSIyOTkuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjI3NS4wIiB4Mj0iNTUuMCIgeTI9IjMwOS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI1NS4wIiB5MT0iMjc1LjAiIHgyPSIzMS4wIiB5Mj0iMjk5LjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjU1LjAiIHkxPSIyNzUuMCIgeDI9IjIxLjAiIHkyPSIyNzUuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTUuMCIgeTE9IjI3NS4wIiB4Mj0iMzEuMCIgeTI9IjI1MS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI1NS4wIiB5MT0iMjc1LjAiIHgyPSI1NS4wIiB5Mj0iMjQxLjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjU1LjAiIHkxPSIyNzUuMCIgeDI9Ijc5LjAiIHkyPSIyNTEuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI1NS4wIiBjeT0iMjc1LjAiIHI9IjE0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxyZWN0IHg9IjExMyIgeT0iMyIgd2lkdGg9IjEwNCIgaGVpZ2h0PSIxMDQiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PHJlY3QgeD0iMTEzIiB5PSIxMTMiIHdpZHRoPSIxMDQiIGhlaWdodD0iMTA0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxyZWN0IHg9IjExMyIgeT0iMjIzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSIyMjMiIHk9IjMiIHdpZHRoPSIxMDQiIGhlaWdodD0iMTA0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxyZWN0IHg9IjIyMyIgeT0iMTEzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSIyMjMiIHk9IjIyMyIgd2lkdGg9IjEwNCIgaGVpZ2h0PSIxMDQiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PHJlY3QgeD0iMzMzIiB5PSIzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSIzMzMiIHk9IjExMyIgd2lkdGg9IjEwNCIgaGVpZ2h0PSIxMDQiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjM4NS4wIiB5MT0iMTY1LjAiIHgyPSI0MTkuMCIgeTI9IjE2NS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSIzODUuMCIgeTE9IjE2NS4wIiB4Mj0iNDA5LjAiIHkyPSIxODkuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iMzg1LjAiIHkxPSIxNjUuMCIgeDI9IjM4NS4wIiB5Mj0iMTk5LjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjM4NS4wIiB5MT0iMTY1LjAiIHgyPSIzNjEuMCIgeTI9IjE4OS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSIzODUuMCIgeTE9IjE2NS4wIiB4Mj0iMzUxLjAiIHkyPSIxNjUuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iMzg1LjAiIHkxPSIxNjUuMCIgeDI9IjM2MS4wIiB5Mj0iMTQxLjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjM4NS4wIiB5MT0iMTY1LjAiIHgyPSIzODUuMCIgeTI9IjEzMS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSIzODUuMCIgeTE9IjE2NS4wIiB4Mj0iNDA5LjAiIHkyPSIxNDEuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIzODUuMCIgY3k9IjE2NS4wIiByPSIxNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48cmVjdCB4PSIzMzMiIHk9IjIyMyIgd2lkdGg9IjEwNCIgaGVpZ2h0PSIxMDQiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PHJlY3QgeD0iNDQzIiB5PSIxMTMiIHdpZHRoPSIxMDQiIGhlaWdodD0iMTA0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxyZWN0IHg9IjU1MyIgeT0iMTEzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSI2NjMiIHk9IjMiIHdpZHRoPSIxMDQiIGhlaWdodD0iMTA0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI3MTUuMCIgeTE9IjU1LjAiIHgyPSI3NDkuMCIgeTI9IjU1LjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjcxNS4wIiB5MT0iNTUuMCIgeDI9IjczOS4wIiB5Mj0iNzkuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNzE1LjAiIHkxPSI1NS4wIiB4Mj0iNzE1LjAiIHkyPSI4OS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI3MTUuMCIgeTE9IjU1LjAiIHgyPSI2OTEuMCIgeTI9Ijc5LjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjcxNS4wIiB5MT0iNTUuMCIgeDI9IjY4MS4wIiB5Mj0iNTUuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNzE1LjAiIHkxPSI1NS4wIiB4Mj0iNjkxLjAiIHkyPSIzMS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI3MTUuMCIgeTE9IjU1LjAiIHgyPSI3MTUuMCIgeTI9IjIxLjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjcxNS4wIiB5MT0iNTUuMCIgeDI9IjczOS4wIiB5Mj0iMzEuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI3MTUuMCIgY3k9IjU1LjAiIHI9IjE0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxyZWN0IHg9IjY2MyIgeT0iMTEzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSI2NjMiIHk9IjIyMyIgd2lkdGg9IjEwNCIgaGVpZ2h0PSIxMDQiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjcxNS4wIiB5MT0iMjc1LjAiIHgyPSI3NDkuMCIgeTI9IjI3NS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI3MTUuMCIgeTE9IjI3NS4wIiB4Mj0iNzM5LjAiIHkyPSIyOTkuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNzE1LjAiIHkxPSIyNzUuMCIgeDI9IjcxNS4wIiB5Mj0iMzA5LjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjcxNS4wIiB5MT0iMjc1LjAiIHgyPSI2OTEuMCIgeTI9IjI5OS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI3MTUuMCIgeTE9IjI3NS4wIiB4Mj0iNjgxLjAiIHkyPSIyNzUuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNzE1LjAiIHkxPSIyNzUuMCIgeDI9IjY5MS4wIiB5Mj0iMjUxLjAiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjcxNS4wIiB5MT0iMjc1LjAiIHgyPSI3MTUuMCIgeTI9IjI0MS4wIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI3MTUuMCIgeTE9IjI3NS4wIiB4Mj0iNzM5LjAiIHkyPSIyNTEuMCIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI3MTUuMCIgY3k9IjI3NS4wIiByPSIxNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjQiLz48cmVjdCB4PSI3NzMiIHk9IjMiIHdpZHRoPSIxMDQiIGhlaWdodD0iMTA0IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxyZWN0IHg9Ijc3MyIgeT0iMTEzIiB3aWR0aD0iMTA0IiBoZWlnaHQ9IjEwNCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSI3NzMiIHk9IjIyMyIgd2lkdGg9IjEwNCIgaGVpZ2h0PSIxMDQiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PC9zdmc+",
+    "aspect": 2.6667,
+    "color": "#211a12",
+    "pieceSize": 0.05
+  },
+  "pieces": [
+    {
+      "type": "w",
+      "label": "White piece",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b",
+      "label": "Black piece",
+      "glyph": "",
+      "bg": "#2b241c"
+    }
+  ],
+  "dice": [
+    {
+      "id": "pyramids",
+      "label": "Tetrahedral dice",
+      "glyph": "🔺",
+      "count": 4,
+      "faces": [
+        {
+          "label": "• marked",
+          "value": 1
+        },
+        {
+          "label": "○ plain",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "turns": {
+    "players": [
+      "White",
+      "Black"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Race all seven of your pieces along the track and off the board before your opponent.",
+    "setup": "The 20-square board: a block of twelve squares, a tail of six, joined by a bridge of two, with five rosette squares. Each player has seven pieces, entering from off the board. Roll four tetrahedral dice.",
+    "howToPlay": [
+      "Roll the four pyramidal dice and count the marked corners that land up (0–4). That is your move.",
+      "Bring a new piece on, or advance one already on the track, by the dice count.",
+      "Land on a rosette square to be safe and to roll again. Land on a lone enemy piece on the shared middle lane to send it back to the start.",
+      "Two pieces cannot share a square; you must be able to make the full move or forfeit it."
+    ],
+    "winning": "The first player to bear all seven pieces off the far end wins.",
+    "variants": [
+      "Finkel's tablet records a richer scoring game with lettered squares; the race above is the popular streamlined form."
+    ],
+    "players": "2",
+    "duration": "15–30 min"
+  },
+  "context": {
+    "period": "Mesopotamia, Early Dynastic period, c. 2600 BCE",
+    "blurb": "The Royal Game of Ur takes its name from the spectacular inlaid boards Leonard Woolley dug from the royal cemetery of Ur in the 1920s. For decades nobody knew how it was played — until Irving Finkel of the British Museum deciphered a Babylonian clay tablet of c. 177 BCE written by the scribe Itti-Marduk-balāṭu, which lays out the rules. It is a race game of two sets of seven pieces on four tetrahedral dice, with lucky rosette squares. We still flag it 'reconstruction': the tablet is late and leaves room for interpretation.",
+    "sources": [
+      "Finkel, I. L. (2007). 'On the Rules for the Royal Game of Ur', in Ancient Board Games in Perspective. British Museum.",
+      "Woolley, C. L. (1934). Ur Excavations II: The Royal Cemetery."
+    ]
+  }
+}

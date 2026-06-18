@@ -1,0 +1,56 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "mu-torere",
+  "name": "Mū Tōrere",
+  "description": "The only board game the Māori are known to have played — block your foe on an eight-pointed star.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjYwMCI+PHJlY3Qgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9IiNlOGQ4YjYiLz48cG9seWdvbiBwb2ludHM9IjMwMC4wLDgwLjAgMTQ0LjQsMTQ0LjQgODAuMCwzMDAuMCAxNDQuNCw0NTUuNiAzMDAuMCw1MjAuMCA0NTUuNiw0NTUuNiA1MjAuMCwzMDAuMCA0NTUuNiwxNDQuNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iMzAwLjAiIHkxPSIzMDAuMCIgeDI9IjMwMC4wIiB5Mj0iODAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIzMDAuMCIgY3k9IjgwLjAiIHI9IjE1IiBmaWxsPSIjNGYzNzIwIi8+PGxpbmUgeDE9IjMwMC4wIiB5MT0iMzAwLjAiIHgyPSIxNDQuNCIgeTI9IjE0NC40IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjE0NC40IiBjeT0iMTQ0LjQiIHI9IjE1IiBmaWxsPSIjNGYzNzIwIi8+PGxpbmUgeDE9IjMwMC4wIiB5MT0iMzAwLjAiIHgyPSI4MC4wIiB5Mj0iMzAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iODAuMCIgY3k9IjMwMC4wIiByPSIxNSIgZmlsbD0iIzRmMzcyMCIvPjxsaW5lIHgxPSIzMDAuMCIgeTE9IjMwMC4wIiB4Mj0iMTQ0LjQiIHkyPSI0NTUuNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIxNDQuNCIgY3k9IjQ1NS42IiByPSIxNSIgZmlsbD0iIzRmMzcyMCIvPjxsaW5lIHgxPSIzMDAuMCIgeTE9IjMwMC4wIiB4Mj0iMzAwLjAiIHkyPSI1MjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSIzMDAuMCIgY3k9IjUyMC4wIiByPSIxNSIgZmlsbD0iIzRmMzcyMCIvPjxsaW5lIHgxPSIzMDAuMCIgeTE9IjMwMC4wIiB4Mj0iNDU1LjYiIHkyPSI0NTUuNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI0NTUuNiIgY3k9IjQ1NS42IiByPSIxNSIgZmlsbD0iIzRmMzcyMCIvPjxsaW5lIHgxPSIzMDAuMCIgeTE9IjMwMC4wIiB4Mj0iNTIwLjAiIHkyPSIzMDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI1MjAuMCIgY3k9IjMwMC4wIiByPSIxNSIgZmlsbD0iIzRmMzcyMCIvPjxsaW5lIHgxPSIzMDAuMCIgeTE9IjMwMC4wIiB4Mj0iNDU1LjYiIHkyPSIxNDQuNCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI0NTUuNiIgY3k9IjE0NC40IiByPSIxNSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjMwMC4wIiBjeT0iMzAwLjAiIHI9IjE3IiBmaWxsPSIjYjQ0NzJlIi8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.1
+  },
+  "pieces": [
+    {
+      "type": "a",
+      "label": "Player one",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b",
+      "label": "Player two",
+      "glyph": "",
+      "bg": "#2b241c"
+    }
+  ],
+  "turns": {
+    "players": [
+      "Tahi",
+      "Rua"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Leave your opponent with no legal move.",
+    "setup": "An eight-pointed star: eight outer points (kewai) around a central point (putahi). Each player has four pieces; one player's four fill four adjacent kewai, the other's the opposite four.",
+    "howToPlay": [
+      "On your turn move one piece to an empty adjacent point — along the star to a neighbouring kewai, in to the putahi, or out from the putahi.",
+      "A piece may only move to the centre if at least one of its neighbours is an enemy piece (a rule that keeps the game from stalling).",
+      "There is no capture; the whole game is the squeeze."
+    ],
+    "winning": "You win when your opponent cannot move on their turn.",
+    "variants": [
+      "Larger stars (more kewai) are sometimes used to lengthen the game."
+    ],
+    "players": "2",
+    "duration": "5–10 min"
+  },
+  "context": {
+    "period": "Aotearoa / New Zealand, pre-European and traditional",
+    "blurb": "Mū tōrere is the one board game indigenous to the Māori, played on an eight-pointed star carved in wood or scratched on the ground, with pebbles or beans for pieces. Ethnographer Elsdon Best recorded it among the Ngāti Porou and other east-coast iwi. It looks trivial and is not: a small, elegant blocking game that has attracted mathematical analysis showing the first player cannot force a win on the standard board.",
+    "sources": [
+      "Best, E. (1925). Games and Pastimes of the Maori.",
+      "Straffin, P. D. (1995). 'Position Graphs for Pong Hau K'i and Mu Torere.'"
+    ]
+  }
+}

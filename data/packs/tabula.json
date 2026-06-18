@@ -1,0 +1,219 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "tabula",
+  "name": "Tabula",
+  "description": "The direct ancestor of backgammon — race fifteen men home on three dice.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzIwIDc2MCIgd2lkdGg9IjEzMjAiIGhlaWdodD0iNzYwIj48cmVjdCB3aWR0aD0iMTMyMCIgaGVpZ2h0PSI3NjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIzMCIgeT0iMzAiIHdpZHRoPSIxMjYwIiBoZWlnaHQ9IjcwMCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjYiLz48cmVjdCB4PSI2MzAuMCIgeT0iMzAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI3MDAiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHBvbHlnb24gcG9pbnRzPSIzMC4wLDM2IDEzMC4wLDM2IDgwLjAsMjg2IiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI2OTAuMCwzNiA3OTAuMCwzNiA3NDAuMCwyODYiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjMwLjAsNzI0IDEzMC4wLDcyNCA4MC4wLDQ3NCIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNjkwLjAsNzI0IDc5MC4wLDcyNCA3NDAuMCw0NzQiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjEzMC4wLDM2IDIzMC4wLDM2IDE4MC4wLDI4NiIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNzkwLjAsMzYgODkwLjAsMzYgODQwLjAsMjg2IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSIxMzAuMCw3MjQgMjMwLjAsNzI0IDE4MC4wLDQ3NCIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNzkwLjAsNzI0IDg5MC4wLDcyNCA4NDAuMCw0NzQiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjIzMC4wLDM2IDMzMC4wLDM2IDI4MC4wLDI4NiIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iODkwLjAsMzYgOTkwLjAsMzYgOTQwLjAsMjg2IiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSIyMzAuMCw3MjQgMzMwLjAsNzI0IDI4MC4wLDQ3NCIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iODkwLjAsNzI0IDk5MC4wLDcyNCA5NDAuMCw0NzQiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjMzMC4wLDM2IDQzMC4wLDM2IDM4MC4wLDI4NiIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iOTkwLjAsMzYgMTA5MC4wLDM2IDEwNDAuMCwyODYiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjMzMC4wLDcyNCA0MzAuMCw3MjQgMzgwLjAsNDc0IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI5OTAuMCw3MjQgMTA5MC4wLDcyNCAxMDQwLjAsNDc0IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI0MzAuMCwzNiA1MzAuMCwzNiA0ODAuMCwyODYiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjEwOTAuMCwzNiAxMTkwLjAsMzYgMTE0MC4wLDI4NiIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNDMwLjAsNzI0IDUzMC4wLDcyNCA0ODAuMCw0NzQiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjEwOTAuMCw3MjQgMTE5MC4wLDcyNCAxMTQwLjAsNDc0IiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI1MzAuMCwzNiA2MzAuMCwzNiA1ODAuMCwyODYiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjExOTAuMCwzNiAxMjkwLjAsMzYgMTI0MC4wLDI4NiIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNTMwLjAsNzI0IDYzMC4wLDcyNCA1ODAuMCw0NzQiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjExOTAuMCw3MjQgMTI5MC4wLDcyNCAxMjQwLjAsNDc0IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PC9zdmc+",
+    "aspect": 1.7368,
+    "color": "#211a12",
+    "pieceSize": 0.038
+  },
+  "pieces": [
+    {
+      "type": "w",
+      "label": "Albus (white)",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b",
+      "label": "Ruber (red)",
+      "glyph": "",
+      "bg": "#a8412e"
+    }
+  ],
+  "setup": [
+    {
+      "type": "w",
+      "x": 0.06,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.0879,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1157,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1436,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1714,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1993,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.2271,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.255,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.2829,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3107,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3386,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3664,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3943,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.4221,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.45,
+      "y": 0.9
+    },
+    {
+      "type": "b",
+      "x": 0.55,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.5779,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6057,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6336,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6614,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6893,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.7171,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.745,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.7729,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8007,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8286,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8564,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8843,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.9121,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.94,
+      "y": 0.1
+    }
+  ],
+  "dice": [
+    {
+      "id": "tesserae",
+      "label": "Tesserae",
+      "glyph": "🎲",
+      "sides": 6,
+      "count": 3
+    }
+  ],
+  "turns": {
+    "players": [
+      "Albus",
+      "Ruber"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Be the first to move all fifteen of your men around the board and bear them all off.",
+    "setup": "A board of twenty-four points in two tables. Each player has fifteen men, entered at the start point and travelling the same direction around the board.",
+    "howToPlay": [
+      "Roll the three dice (tesserae). Move men forward by each die value — three separate moves.",
+      "More than one of your own men may share (and so hold) a point.",
+      "A point held by two or more enemy men is blocked; you cannot land there.",
+      "Land a single man alone on a point and an arriving enemy can hit it — the hit man re-enters.",
+      "Once all your men are in the final quarter, you may bear them off."
+    ],
+    "winning": "The first player to bear off all fifteen men wins. The emperor Zeno is recorded losing a famously bad throw mid-game in 480 CE.",
+    "variants": [
+      "Two dice instead of three for a faster, backgammon-like game."
+    ],
+    "players": "2",
+    "duration": "15–30 min"
+  },
+  "context": {
+    "period": "Later Roman Empire, c. 1st–6th c. CE",
+    "blurb": "Tabula ('the board') is the immediate ancestor of backgammon: two players, fifteen men each, three six-sided dice, racing around twenty-four points. We know it unusually well because of a single game — an epigram in the Greek Anthology records the exact disastrous throw the emperor Zeno made around 480 CE, point by point, the best-attested individual game from antiquity.",
+    "sources": [
+      "Austin, R. G. (1934). 'Zeno's Game of τάβλη.' Journal of Hellenic Studies 54.",
+      "Becq de Fouquières, L. (1873). Les Jeux des Anciens."
+    ]
+  }
+}

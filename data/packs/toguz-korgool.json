@@ -1,0 +1,50 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "toguz-korgool",
+  "name": "Toguz Korgool",
+  "description": "The steppe's national mancala — nine pits, nine pebbles, and a 'mother hole' you can seize.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDA0IDMxOCIgd2lkdGg9IjE0MDQiIGhlaWdodD0iMzE4Ij48cmVjdCB3aWR0aD0iMTQwNCIgaGVpZ2h0PSIzMTgiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIxNS4wIiB5PSIxNS4wIiB3aWR0aD0iMTM3NCIgaGVpZ2h0PSIyODgiIHJ4PSI0NiIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjYiLz48cmVjdCB4PSIzMCIgeT0iMzAiIHdpZHRoPSIxMzAiIGhlaWdodD0iMjU4IiByeD0iNjUuMCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48cmVjdCB4PSIxMjQ0IiB5PSIzMCIgd2lkdGg9IjEzMCIgaGVpZ2h0PSIyNTgiIHJ4PSI2NS4wIiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjIzMCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMzQ4IiBjeT0iMTAwIiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI0NjYiIGN5PSIxMDAiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjU4NCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iNzAyIiBjeT0iMTAwIiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI4MjAiIGN5PSIxMDAiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjkzOCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMTA1NiIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMTE3NCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMjMwIiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIzNDgiIGN5PSIyMTgiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjQ2NiIgY3k9IjIxOCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iNTg0IiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI3MDIiIGN5PSIyMTgiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjgyMCIgY3k9IjIxOCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iOTM4IiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxMDU2IiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxMTc0IiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48L3N2Zz4=",
+    "aspect": 4.4151,
+    "color": "#211a12",
+    "pieceSize": 0.022
+  },
+  "pieces": [
+    {
+      "type": "seed",
+      "label": "Pebble (korgool)",
+      "glyph": "",
+      "bg": "#6b4a2a"
+    }
+  ],
+  "turns": {
+    "players": [
+      "South",
+      "North"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Gather more than half of the 162 pebbles into your kazan (store).",
+    "setup": "Two rows of nine pits, each starting with nine pebbles, plus a large kazan for each player.",
+    "howToPlay": [
+      "Lift a pit's pebbles and sow them one per pit anticlockwise; the first pebble drops in the SAME pit you lifted from (unless it held one pebble, which simply moves on).",
+      "If your last pebble lands in an enemy pit making its count even, you capture all the pebbles in it to your kazan.",
+      "If it makes an enemy pit hold exactly three, you may claim that pit as a tuz ('mother hole') — thereafter every pebble that lands there is yours."
+    ],
+    "winning": "When the board empties, whoever has more than 81 pebbles in their kazan wins.",
+    "variants": [
+      "Kazakh toguz kumalak is the same game; both have national federations and tournaments."
+    ],
+    "players": "2",
+    "duration": "20–40 min"
+  },
+  "context": {
+    "period": "Central Asia, traditional (Kyrgyzstan, Kazakhstan)",
+    "blurb": "Toguz korgool ('nine pebbles') — toguz kumalak in Kazakh — is the national mancala of the Central Asian steppe, an old herders' game now backed by state federations, world championships and even satellite-broadcast matches. Its signature is the tuz, a captured 'mother hole' that keeps paying out, and a count deep enough that strong players calculate long sowing chains in their heads. It is inscribed on UNESCO's intangible-heritage lists.",
+    "sources": [
+      "Russ, L. (2000). The Complete Mancala Games Book.",
+      "UNESCO (2020). Togyzqumalaq / Toguz korgool, intangible cultural heritage nomination."
+    ]
+  }
+}

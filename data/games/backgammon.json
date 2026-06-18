@@ -1,0 +1,234 @@
+{
+  "id": "backgammon",
+  "name": "Backgammon",
+  "native": "نرد Nard · تخته Tavla",
+  "aka": [
+    "Nard",
+    "Tavli",
+    "Tric-trac"
+  ],
+  "category": "race",
+  "origin": "Persia & the medieval world",
+  "region": "West Asia",
+  "era": "c. 800 CE onward",
+  "players": "2",
+  "duration": "15–30 min",
+  "wp": "Backgammon",
+  "reconstruction": false,
+  "tagline": "Tabula's descendant, perfected in Persia — two dice, the doubling cube, and centuries of taverns.",
+  "rules": {
+    "objective": "Move all fifteen of your checkers into your home board and bear them off before your opponent.",
+    "setup": "Twenty-four points in four quarters, the checkers in the standard opening array (use 'Load sample layout'). The two players move their checkers in opposite directions.",
+    "howToPlay": [
+      "Roll two dice; move one checker for each die, or one checker by both in turn. Doubles are played four times.",
+      "You may only land on an open point — one not held by two or more enemy checkers.",
+      "Land alone on a 'blot' and the enemy can hit it, sending your checker to the bar to re-enter.",
+      "When all your checkers are home, bear them off by exact or higher rolls."
+    ],
+    "winning": "First to bear off all fifteen checkers wins; a 'gammon' or 'backgammon' doubles or triples the stake, raised further by the doubling cube.",
+    "variants": [
+      "Nard, tavla and tric-trac are regional cousins with their own opening rules."
+    ],
+    "players": "2",
+    "duration": "15–30 min"
+  },
+  "context": {
+    "period": "Sasanian Persia onward; modern doubling cube added in 1920s New York",
+    "blurb": "Backgammon descends straight from Roman tabula by way of Sasanian Persia, where the game nard (nard-shir) is celebrated in the Middle Persian text 'The Explanation of Chess and the Invention of Backgammon' as a model of fate and free will. It spread under Islam as an, in Spain as tablas (in Alfonso X's book of games), and across Europe as tric-trac and tables. The doubling cube, the one truly modern addition, was invented in 1920s New York.",
+    "sources": [
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford.",
+      "Alfonso X (1283). Libro de los juegos."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzIwIDc2MCIgd2lkdGg9IjEzMjAiIGhlaWdodD0iNzYwIj48cmVjdCB3aWR0aD0iMTMyMCIgaGVpZ2h0PSI3NjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIzMCIgeT0iMzAiIHdpZHRoPSIxMjYwIiBoZWlnaHQ9IjcwMCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjYiLz48cmVjdCB4PSI2MzAuMCIgeT0iMzAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI3MDAiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHBvbHlnb24gcG9pbnRzPSIzMC4wLDM2IDEzMC4wLDM2IDgwLjAsMjg2IiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI2OTAuMCwzNiA3OTAuMCwzNiA3NDAuMCwyODYiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjMwLjAsNzI0IDEzMC4wLDcyNCA4MC4wLDQ3NCIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNjkwLjAsNzI0IDc5MC4wLDcyNCA3NDAuMCw0NzQiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjEzMC4wLDM2IDIzMC4wLDM2IDE4MC4wLDI4NiIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNzkwLjAsMzYgODkwLjAsMzYgODQwLjAsMjg2IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSIxMzAuMCw3MjQgMjMwLjAsNzI0IDE4MC4wLDQ3NCIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNzkwLjAsNzI0IDg5MC4wLDcyNCA4NDAuMCw0NzQiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjIzMC4wLDM2IDMzMC4wLDM2IDI4MC4wLDI4NiIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iODkwLjAsMzYgOTkwLjAsMzYgOTQwLjAsMjg2IiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSIyMzAuMCw3MjQgMzMwLjAsNzI0IDI4MC4wLDQ3NCIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iODkwLjAsNzI0IDk5MC4wLDcyNCA5NDAuMCw0NzQiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjMzMC4wLDM2IDQzMC4wLDM2IDM4MC4wLDI4NiIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iOTkwLjAsMzYgMTA5MC4wLDM2IDEwNDAuMCwyODYiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjMzMC4wLDcyNCA0MzAuMCw3MjQgMzgwLjAsNDc0IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI5OTAuMCw3MjQgMTA5MC4wLDcyNCAxMDQwLjAsNDc0IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI0MzAuMCwzNiA1MzAuMCwzNiA0ODAuMCwyODYiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjEwOTAuMCwzNiAxMTkwLjAsMzYgMTE0MC4wLDI4NiIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNDMwLjAsNzI0IDUzMC4wLDcyNCA0ODAuMCw0NzQiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjEwOTAuMCw3MjQgMTE5MC4wLDcyNCAxMTQwLjAsNDc0IiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjc4Ii8+PHBvbHlnb24gcG9pbnRzPSI1MzAuMCwzNiA2MzAuMCwzNiA1ODAuMCwyODYiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjExOTAuMCwzNiAxMjkwLjAsMzYgMTI0MC4wLDI4NiIgZmlsbD0iIzJiMjQxYyIgb3BhY2l0eT0iMC43OCIvPjxwb2x5Z29uIHBvaW50cz0iNTMwLjAsNzI0IDYzMC4wLDcyNCA1ODAuMCw0NzQiIGZpbGw9IiMyYjI0MWMiIG9wYWNpdHk9IjAuNzgiLz48cG9seWdvbiBwb2ludHM9IjExOTAuMCw3MjQgMTI5MC4wLDcyNCAxMjQwLjAsNDc0IiBmaWxsPSIjMmIyNDFjIiBvcGFjaXR5PSIwLjc4Ii8+PC9zdmc+",
+    "aspect": 1.7368,
+    "color": "#211a12",
+    "pieceSize": 0.038
+  },
+  "pieces": [
+    {
+      "type": "w",
+      "label": "White checker",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b",
+      "label": "Black checker",
+      "glyph": "",
+      "bg": "#2b241c"
+    }
+  ],
+  "setup": [
+    {
+      "type": "w",
+      "x": 0.06,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.0879,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1157,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1436,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1714,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.1993,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.2271,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.255,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.2829,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3107,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3386,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3664,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.3943,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.4221,
+      "y": 0.9
+    },
+    {
+      "type": "w",
+      "x": 0.45,
+      "y": 0.9
+    },
+    {
+      "type": "b",
+      "x": 0.55,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.5779,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6057,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6336,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6614,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.6893,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.7171,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.745,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.7729,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8007,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8286,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8564,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.8843,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.9121,
+      "y": 0.1
+    },
+    {
+      "type": "b",
+      "x": 0.94,
+      "y": 0.1
+    }
+  ],
+  "dice": [
+    {
+      "id": "dice",
+      "label": "Dice",
+      "glyph": "🎲",
+      "sides": 6,
+      "count": 2
+    }
+  ],
+  "turns": {
+    "players": [
+      "White",
+      "Black"
+    ],
+    "track": true
+  },
+  "category_label": "Race & tables",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/backgammon.json"
+}

@@ -1,0 +1,58 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "go",
+  "name": "Go",
+  "description": "The oldest game still played by its original rules — surround territory with stones.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4ODAgODgwIiB3aWR0aD0iODgwIiBoZWlnaHQ9Ijg4MCI+PHJlY3Qgd2lkdGg9Ijg4MCIgaGVpZ2h0PSI4ODAiIGZpbGw9IiNlOGQ4YjYiLz48bGluZSB4MT0iNDQuMCIgeTE9IjQ0LjAiIHgyPSI0NC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI0NC4wIiB4Mj0iODM2LjAiIHkyPSI0NC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI4OC4wIiB5MT0iNDQuMCIgeDI9Ijg4LjAiIHkyPSI4MzYuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDQuMCIgeTE9Ijg4LjAiIHgyPSI4MzYuMCIgeTI9Ijg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjEzMi4wIiB5MT0iNDQuMCIgeDI9IjEzMi4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSIxMzIuMCIgeDI9IjgzNi4wIiB5Mj0iMTMyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjE3Ni4wIiB5MT0iNDQuMCIgeDI9IjE3Ni4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSIxNzYuMCIgeDI9IjgzNi4wIiB5Mj0iMTc2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjIyMC4wIiB5MT0iNDQuMCIgeDI9IjIyMC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSIyMjAuMCIgeDI9IjgzNi4wIiB5Mj0iMjIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjI2NC4wIiB5MT0iNDQuMCIgeDI9IjI2NC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSIyNjQuMCIgeDI9IjgzNi4wIiB5Mj0iMjY0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjMwOC4wIiB5MT0iNDQuMCIgeDI9IjMwOC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSIzMDguMCIgeDI9IjgzNi4wIiB5Mj0iMzA4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjM1Mi4wIiB5MT0iNDQuMCIgeDI9IjM1Mi4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSIzNTIuMCIgeDI9IjgzNi4wIiB5Mj0iMzUyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjM5Ni4wIiB5MT0iNDQuMCIgeDI9IjM5Ni4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSIzOTYuMCIgeDI9IjgzNi4wIiB5Mj0iMzk2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0MC4wIiB5MT0iNDQuMCIgeDI9IjQ0MC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI0NDAuMCIgeDI9IjgzNi4wIiB5Mj0iNDQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ4NC4wIiB5MT0iNDQuMCIgeDI9IjQ4NC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI0ODQuMCIgeDI9IjgzNi4wIiB5Mj0iNDg0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjUyOC4wIiB5MT0iNDQuMCIgeDI9IjUyOC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI1MjguMCIgeDI9IjgzNi4wIiB5Mj0iNTI4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjU3Mi4wIiB5MT0iNDQuMCIgeDI9IjU3Mi4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI1NzIuMCIgeDI9IjgzNi4wIiB5Mj0iNTcyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjYxNi4wIiB5MT0iNDQuMCIgeDI9IjYxNi4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI2MTYuMCIgeDI9IjgzNi4wIiB5Mj0iNjE2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjY2MC4wIiB5MT0iNDQuMCIgeDI9IjY2MC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI2NjAuMCIgeDI9IjgzNi4wIiB5Mj0iNjYwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwNC4wIiB5MT0iNDQuMCIgeDI9IjcwNC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI3MDQuMCIgeDI9IjgzNi4wIiB5Mj0iNzA0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9Ijc0OC4wIiB5MT0iNDQuMCIgeDI9Ijc0OC4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI3NDguMCIgeDI9IjgzNi4wIiB5Mj0iNzQ4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9Ijc5Mi4wIiB5MT0iNDQuMCIgeDI9Ijc5Mi4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI3OTIuMCIgeDI9IjgzNi4wIiB5Mj0iNzkyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjgzNi4wIiB5MT0iNDQuMCIgeDI9IjgzNi4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ0LjAiIHkxPSI4MzYuMCIgeDI9IjgzNi4wIiB5Mj0iODM2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNDQiIHk9IjQ0IiB3aWR0aD0iNzkyIiBoZWlnaHQ9Ijc5MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxNzYuMCIgY3k9IjE3Ni4wIiByPSI2IiBmaWxsPSIjNmI0YTJhIi8+PGNpcmNsZSBjeD0iNDQwLjAiIGN5PSIxNzYuMCIgcj0iNiIgZmlsbD0iIzZiNGEyYSIvPjxjaXJjbGUgY3g9IjcwNC4wIiBjeT0iMTc2LjAiIHI9IjYiIGZpbGw9IiM2YjRhMmEiLz48Y2lyY2xlIGN4PSIxNzYuMCIgY3k9IjQ0MC4wIiByPSI2IiBmaWxsPSIjNmI0YTJhIi8+PGNpcmNsZSBjeD0iNDQwLjAiIGN5PSI0NDAuMCIgcj0iNiIgZmlsbD0iIzZiNGEyYSIvPjxjaXJjbGUgY3g9IjcwNC4wIiBjeT0iNDQwLjAiIHI9IjYiIGZpbGw9IiM2YjRhMmEiLz48Y2lyY2xlIGN4PSIxNzYuMCIgY3k9IjcwNC4wIiByPSI2IiBmaWxsPSIjNmI0YTJhIi8+PGNpcmNsZSBjeD0iNDQwLjAiIGN5PSI3MDQuMCIgcj0iNiIgZmlsbD0iIzZiNGEyYSIvPjxjaXJjbGUgY3g9IjcwNC4wIiBjeT0iNzA0LjAiIHI9IjYiIGZpbGw9IiM2YjRhMmEiLz48L3N2Zz4=",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.046
+  },
+  "pieces": [
+    {
+      "type": "b",
+      "label": "Black stone (黑)",
+      "glyph": "",
+      "bg": "#1c1714"
+    },
+    {
+      "type": "w",
+      "label": "White stone (白)",
+      "glyph": "",
+      "bg": "#efe7d2"
+    }
+  ],
+  "turns": {
+    "players": [
+      "Black",
+      "White"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Control more of the board than your opponent by surrounding empty intersections and capturing enemy stones.",
+    "setup": "An empty grid of 19×19 lines (smaller 9×9 and 13×13 boards are common for learning). Black plays first. Stones are placed on the intersections, not the squares.",
+    "howToPlay": [
+      "Players alternate placing one stone of their colour on any empty intersection. Placed stones do not move.",
+      "A stone or solidly-connected group is captured and removed when it has no adjacent empty point (no 'liberties') left.",
+      "You may not play a stone that would immediately have no liberties (suicide), nor repeat the whole board position (the ko rule).",
+      "Either player may pass; two passes in a row end the game."
+    ],
+    "winning": "Count each player's surrounded territory plus captures (or stones on the board, by ruleset). The larger score wins; a handicap of extra stones lets unequal players meet fairly.",
+    "variants": [
+      "9×9 and 13×13 boards for shorter games.",
+      "Handicap stones (2–9) placed for the weaker player on the star points."
+    ],
+    "players": "2",
+    "duration": "30–90 min"
+  },
+  "context": {
+    "period": "China, attested by the 6th c. BCE; spread to Korea and Japan",
+    "blurb": "Go — weiqi in China, igo in Japan, baduk in Korea — is the oldest board game still played in essentially its original form. Legend credits the sage-emperor Yao; it is named in the Analects and the Zuo Zhuan by the 6th–4th c. BCE. Two players lay black and white stones on the intersections of a 19×19 grid, each trying to surround more territory. From a trivially simple rule grows a game of such depth that it was the last classic board game in which computers surpassed human champions, only in 2016.",
+    "sources": [
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford.",
+      "Fairbairn, J. (1995). Go in Ancient China."
+    ]
+  }
+}

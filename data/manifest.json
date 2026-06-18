@@ -1,0 +1,109 @@
+{
+  "generated_at": "2026-06-18T09:48:22+00:00",
+  "title": "Games of the Past",
+  "totals": {
+    "games": 28,
+    "regions": 8,
+    "reconstructions": 8,
+    "with_image": 0,
+    "with_dice": 10
+  },
+  "categories": [
+    {
+      "key": "war",
+      "label": "War & strategy",
+      "pigment": "#7a8a3a",
+      "note": "Capture, position and territory — soldiers, stones and kings on a grid of squares or lines.",
+      "count": 6
+    },
+    {
+      "key": "hunt",
+      "label": "Hunt & siege",
+      "pigment": "#9c5a2e",
+      "note": "Asymmetric games: a few strong pieces against a swarm of weak ones.",
+      "count": 3
+    },
+    {
+      "key": "race",
+      "label": "Race & tables",
+      "pigment": "#b4472e",
+      "note": "Dice-driven race games — counters around a track, ancestors of backgammon and ludo.",
+      "count": 7
+    },
+    {
+      "key": "sowing",
+      "label": "Sowing",
+      "pigment": "#3f7a55",
+      "note": "The mancala family — sow and capture seeds around a board of pits.",
+      "count": 3
+    },
+    {
+      "key": "alignment",
+      "label": "Alignment",
+      "pigment": "#3a6ea5",
+      "note": "Make a line of three — the morris and merels games scratched the world over.",
+      "count": 4
+    },
+    {
+      "key": "dice",
+      "label": "Dice & lots",
+      "pigment": "#caa05a",
+      "note": "Gambling with knucklebones, cubes, marked beans and spinning tops.",
+      "count": 3
+    },
+    {
+      "key": "guessing",
+      "label": "Hand & guess",
+      "pigment": "#8a5a8a",
+      "note": "Quick wagering games of the hand — nothing needed but nimble fingers.",
+      "count": 2
+    }
+  ],
+  "regions": [
+    {
+      "key": "Europe",
+      "count": 13
+    },
+    {
+      "key": "West Asia",
+      "count": 4
+    },
+    {
+      "key": "South Asia",
+      "count": 3
+    },
+    {
+      "key": "Africa",
+      "count": 3
+    },
+    {
+      "key": "East Asia",
+      "count": 2
+    },
+    {
+      "key": "Mesoamerica",
+      "count": 1
+    },
+    {
+      "key": "Central Asia",
+      "count": 1
+    },
+    {
+      "key": "Pacific",
+      "count": 1
+    }
+  ],
+  "launcher": {
+    "base": "https://justplaybo.github.io/whitechapel/",
+    "note": "Play link = <base>?game=<absolute pack URL>&room=<code>. The pack is a boardgame/1.1 file under data/packs/."
+  },
+  "sources": {
+    "wikidata": {
+      "status": "disabled"
+    },
+    "wikipedia": {
+      "status": "disabled"
+    }
+  },
+  "footer": "Made with <3 in Bologna by OpenHistoryMap"
+}

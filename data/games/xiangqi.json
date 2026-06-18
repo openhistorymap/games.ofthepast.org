@@ -1,0 +1,160 @@
+{
+  "id": "xiangqi",
+  "name": "Xiangqi",
+  "native": "象棋",
+  "aka": [
+    "Chinese chess",
+    "Elephant game"
+  ],
+  "category": "war",
+  "origin": "China (by Song dynasty)",
+  "region": "East Asia",
+  "era": "by c. 11th c. CE",
+  "players": "2",
+  "duration": "20–40 min",
+  "wp": "Xiangqi",
+  "reconstruction": false,
+  "tagline": "Chess across a river — generals confined to their palaces, cannons that leap to capture.",
+  "rules": {
+    "objective": "Checkmate the enemy general (將/帥).",
+    "setup": "Pieces stand on the intersections of a 9×10 board split by a central 'river'. Each side has a general and two advisors in a 3×3 'palace', plus elephants, horses, chariots, cannons and five soldiers.",
+    "howToPlay": [
+      "The general moves one point orthogonally and may never leave the palace — nor face the enemy general down an open file.",
+      "Chariots (車) move like rooks; horses (馬) move like knights but can be 'hobbled' by a blocking piece.",
+      "Elephants (象) move two points diagonally and cannot cross the river; advisors (士) move one point diagonally inside the palace.",
+      "The cannon (砲) moves like a chariot but captures only by jumping exactly one piece (a 'screen').",
+      "Soldiers (兵) advance one point; after crossing the river they may also move sideways."
+    ],
+    "winning": "Trap the enemy general so it cannot escape capture, exactly as in chess.",
+    "variants": [
+      "Blind and odds games are popular; many regional opening conventions exist."
+    ],
+    "players": "2",
+    "duration": "20–40 min"
+  },
+  "context": {
+    "period": "China, in its modern form by the 11th–12th c. CE",
+    "blurb": "Xiangqi — 'the elephant game' — is the chess of the Chinese-speaking world, played in its present shape since the Song dynasty. Two armies meet across a river painted down the middle of the board (楚河漢界, the Chu–Han frontier of the 2nd c. BCE civil war). Its distinctive pieces — generals penned in a palace, cannons that capture only by leaping a screen — give it a character all its own. It remains one of the most-played games on earth.",
+    "sources": [
+      "Murray, H. J. R. (1913). A History of Chess. Oxford.",
+      "Li, D. H. (1998). The Genealogy of Chess."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MDAgNzcwIiB3aWR0aD0iNzAwIiBoZWlnaHQ9Ijc3MCI+PHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI3NzAiIGZpbGw9IiNlOGQ4YjYiLz48bGluZSB4MT0iNzAuMCIgeTE9IjcwLjAiIHgyPSI2MzAuMCIgeTI9IjcwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSIxNDAuMCIgeDI9IjYzMC4wIiB5Mj0iMTQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSIyMTAuMCIgeDI9IjYzMC4wIiB5Mj0iMjEwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSIyODAuMCIgeDI9IjYzMC4wIiB5Mj0iMjgwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSIzNTAuMCIgeDI9IjYzMC4wIiB5Mj0iMzUwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSI0MjAuMCIgeDI9IjYzMC4wIiB5Mj0iNDIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSI0OTAuMCIgeDI9IjYzMC4wIiB5Mj0iNDkwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSI1NjAuMCIgeDI9IjYzMC4wIiB5Mj0iNTYwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSI2MzAuMCIgeDI9IjYzMC4wIiB5Mj0iNjMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSI3MDAuMCIgeDI9IjYzMC4wIiB5Mj0iNzAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjcwLjAiIHkxPSI3MC4wIiB4Mj0iNzAuMCIgeTI9IjcwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIxNDAuMCIgeTE9IjcwLjAiIHgyPSIxNDAuMCIgeTI9IjM1MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIxNDAuMCIgeTE9IjQyMC4wIiB4Mj0iMTQwLjAiIHkyPSI3MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjEwLjAiIHkxPSI3MC4wIiB4Mj0iMjEwLjAiIHkyPSIzNTAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjEwLjAiIHkxPSI0MjAuMCIgeDI9IjIxMC4wIiB5Mj0iNzAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjI4MC4wIiB5MT0iNzAuMCIgeDI9IjI4MC4wIiB5Mj0iMzUwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjI4MC4wIiB5MT0iNDIwLjAiIHgyPSIyODAuMCIgeTI9IjcwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzNTAuMCIgeTE9IjcwLjAiIHgyPSIzNTAuMCIgeTI9IjM1MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzNTAuMCIgeTE9IjQyMC4wIiB4Mj0iMzUwLjAiIHkyPSI3MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDIwLjAiIHkxPSI3MC4wIiB4Mj0iNDIwLjAiIHkyPSIzNTAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDIwLjAiIHkxPSI0MjAuMCIgeDI9IjQyMC4wIiB5Mj0iNzAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ5MC4wIiB5MT0iNzAuMCIgeDI9IjQ5MC4wIiB5Mj0iMzUwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQ5MC4wIiB5MT0iNDIwLjAiIHgyPSI0OTAuMCIgeTI9IjcwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI1NjAuMCIgeTE9IjcwLjAiIHgyPSI1NjAuMCIgeTI9IjM1MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI1NjAuMCIgeTE9IjQyMC4wIiB4Mj0iNTYwLjAiIHkyPSI3MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNjMwLjAiIHkxPSI3MC4wIiB4Mj0iNjMwLjAiIHkyPSI3MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjgwLjAiIHkxPSI3MC4wIiB4Mj0iNDIwLjAiIHkyPSIyMTAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDIwLjAiIHkxPSI3MC4wIiB4Mj0iMjgwLjAiIHkyPSIyMTAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjgwLjAiIHkxPSI1NjAuMCIgeDI9IjQyMC4wIiB5Mj0iNzAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQyMC4wIiB5MT0iNTYwLjAiIHgyPSIyODAuMCIgeTI9IjcwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjcwIiB5PSI3MCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSI2MzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHRleHQgeD0iMzUwLjAiIHk9IjM5NS4wIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIzNCIgbGV0dGVyLXNwYWNpbmc9IjEwIiBmaWxsPSIjNmI0YTJhIiBvcGFjaXR5PSIwLjQiPualmuaysyAgICDmvKLnlYw8L3RleHQ+PC9zdmc+",
+    "aspect": 0.9091,
+    "color": "#211a12",
+    "pieceSize": 0.085
+  },
+  "pieces": [
+    {
+      "type": "r-gen",
+      "label": "General 帥",
+      "glyph": "帥",
+      "color": "#a8412e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r-adv",
+      "label": "Advisor 仕",
+      "glyph": "仕",
+      "color": "#a8412e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r-ele",
+      "label": "Elephant 相",
+      "glyph": "相",
+      "color": "#a8412e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r-hor",
+      "label": "Horse 傌",
+      "glyph": "傌",
+      "color": "#a8412e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r-cha",
+      "label": "Chariot 俥",
+      "glyph": "俥",
+      "color": "#a8412e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r-can",
+      "label": "Cannon 炮",
+      "glyph": "炮",
+      "color": "#a8412e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r-sol",
+      "label": "Soldier 兵",
+      "glyph": "兵",
+      "color": "#a8412e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b-gen",
+      "label": "General 將",
+      "glyph": "將",
+      "color": "#2b241c",
+      "bg": "#cbb98f"
+    },
+    {
+      "type": "b-adv",
+      "label": "Advisor 士",
+      "glyph": "士",
+      "color": "#2b241c",
+      "bg": "#cbb98f"
+    },
+    {
+      "type": "b-ele",
+      "label": "Elephant 象",
+      "glyph": "象",
+      "color": "#2b241c",
+      "bg": "#cbb98f"
+    },
+    {
+      "type": "b-hor",
+      "label": "Horse 馬",
+      "glyph": "馬",
+      "color": "#2b241c",
+      "bg": "#cbb98f"
+    },
+    {
+      "type": "b-cha",
+      "label": "Chariot 車",
+      "glyph": "車",
+      "color": "#2b241c",
+      "bg": "#cbb98f"
+    },
+    {
+      "type": "b-can",
+      "label": "Cannon 砲",
+      "glyph": "砲",
+      "color": "#2b241c",
+      "bg": "#cbb98f"
+    },
+    {
+      "type": "b-sol",
+      "label": "Soldier 卒",
+      "glyph": "卒",
+      "color": "#2b241c",
+      "bg": "#cbb98f"
+    }
+  ],
+  "setup": [],
+  "turns": {
+    "players": [
+      "Red (帥)",
+      "Black (將)"
+    ],
+    "track": true
+  },
+  "category_label": "War & strategy",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/xiangqi.json"
+}

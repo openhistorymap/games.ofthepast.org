@@ -1,0 +1,143 @@
+{
+  "id": "fox-and-geese",
+  "name": "Fox and Geese",
+  "native": "Fox and Geese",
+  "aka": [
+    "Fox game",
+    "Halatafl"
+  ],
+  "category": "hunt",
+  "origin": "Medieval northern Europe",
+  "region": "Europe",
+  "era": "by c. 14th c. CE",
+  "players": "2",
+  "duration": "10–15 min",
+  "wp": "Fox games",
+  "reconstruction": false,
+  "tagline": "One fox against a gaggle of geese — can the flock corner the predator?",
+  "rules": {
+    "objective": "Fox: eat enough geese to break the flock. Geese: hem the fox in so it cannot move.",
+    "setup": "A cross-shaped board of 33 points. The fox starts on the central point; the thirteen geese fill the lower arm and the bottom of the crossbar.",
+    "howToPlay": [
+      "Geese move one step along a line to an adjacent empty point, but never backwards toward their own end — they advance to surround.",
+      "The fox moves one step along a line in any direction, and captures by jumping an adjacent goose to the empty point beyond, removing it (jumps may chain).",
+      "Players alternate; the geese move as a flock, one goose per turn."
+    ],
+    "winning": "The fox wins if it captures so many geese that they can no longer trap it; the geese win by penning the fox so it has no move.",
+    "variants": [
+      "Flocks of 13, 15 or 17 geese tune the balance; more geese favour the flock.",
+      "Asalto / officers-and-sepoys is a 19th-century military restyling of the same game."
+    ],
+    "players": "2",
+    "duration": "10–15 min"
+  },
+  "context": {
+    "period": "Northern Europe, medieval onward",
+    "blurb": "Fox and geese is the western survivor of the asymmetric hunt games, kin to hnefatafl and named (as halatafl) in the 14th-century Icelandic Grettis saga. A single fox tries to thin a flock of geese by leaping them, while the geese, who cannot capture at all, must use their numbers to corner it. Edward IV of England owned silver foxes and geese; the cross-shaped board is the same one later used for peg solitaire.",
+    "sources": [
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford.",
+      "Bell, R. C. (1979). Board and Table Games from Many Civilizations. Dover."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NjQgNjY0IiB3aWR0aD0iNjY0IiBoZWlnaHQ9IjY2NCI+PHJlY3Qgd2lkdGg9IjY2NCIgaGVpZ2h0PSI2NjQiIGZpbGw9IiNlOGQ4YjYiLz48cGF0aCBkPSJNMjQwLDU2IGgxODQgdjE4NCBoMTg0IHYxODQgaC0xODQgdjE4NCBoLTE4NCB2LTE4NCBoLTE4NCB2LTE4NCBoMTg0IHoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI1Ii8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iNTYuMCIgeDI9IjMzMi4wIiB5Mj0iNTYuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjQwLjAiIHkxPSI1Ni4wIiB4Mj0iMjQwLjAiIHkyPSIxNDguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMzMyLjAiIHkxPSI1Ni4wIiB4Mj0iNDI0LjAiIHkyPSI1Ni4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjU2LjAiIHgyPSIzMzIuMCIgeTI9IjE0OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI0MjQuMCIgeTE9IjU2LjAiIHgyPSI0MjQuMCIgeTI9IjE0OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjE0OC4wIiB4Mj0iMzMyLjAiIHkyPSIxNDguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjQwLjAiIHkxPSIxNDguMCIgeDI9IjI0MC4wIiB5Mj0iMjQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjMzMi4wIiB5MT0iMTQ4LjAiIHgyPSI0MjQuMCIgeTI9IjE0OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjE0OC4wIiB4Mj0iMzMyLjAiIHkyPSIyNDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDI0LjAiIHkxPSIxNDguMCIgeDI9IjQyNC4wIiB5Mj0iMjQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjU2LjAiIHkxPSIyNDAuMCIgeDI9IjE0OC4wIiB5Mj0iMjQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjU2LjAiIHkxPSIyNDAuMCIgeDI9IjU2LjAiIHkyPSIzMzIuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMTQ4LjAiIHkxPSIyNDAuMCIgeDI9IjI0MC4wIiB5Mj0iMjQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjE0OC4wIiB5MT0iMjQwLjAiIHgyPSIxNDguMCIgeTI9IjMzMi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjI0MC4wIiB4Mj0iMzMyLjAiIHkyPSIyNDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjQwLjAiIHkxPSIyNDAuMCIgeDI9IjI0MC4wIiB5Mj0iMzMyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjMzMi4wIiB5MT0iMjQwLjAiIHgyPSI0MjQuMCIgeTI9IjI0MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjI0MC4wIiB4Mj0iMzMyLjAiIHkyPSIzMzIuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDI0LjAiIHkxPSIyNDAuMCIgeDI9IjUxNi4wIiB5Mj0iMjQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQyNC4wIiB5MT0iMjQwLjAiIHgyPSI0MjQuMCIgeTI9IjMzMi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI1MTYuMCIgeTE9IjI0MC4wIiB4Mj0iNjA4LjAiIHkyPSIyNDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNTE2LjAiIHkxPSIyNDAuMCIgeDI9IjUxNi4wIiB5Mj0iMzMyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjYwOC4wIiB5MT0iMjQwLjAiIHgyPSI2MDguMCIgeTI9IjMzMi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI1Ni4wIiB5MT0iMzMyLjAiIHgyPSIxNDguMCIgeTI9IjMzMi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI1Ni4wIiB5MT0iMzMyLjAiIHgyPSI1Ni4wIiB5Mj0iNDI0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjE0OC4wIiB5MT0iMzMyLjAiIHgyPSIyNDAuMCIgeTI9IjMzMi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIxNDguMCIgeTE9IjMzMi4wIiB4Mj0iMTQ4LjAiIHkyPSI0MjQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjQwLjAiIHkxPSIzMzIuMCIgeDI9IjMzMi4wIiB5Mj0iMzMyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iMzMyLjAiIHgyPSIyNDAuMCIgeTI9IjQyNC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjMzMi4wIiB4Mj0iNDI0LjAiIHkyPSIzMzIuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMzMyLjAiIHkxPSIzMzIuMCIgeDI9IjMzMi4wIiB5Mj0iNDI0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQyNC4wIiB5MT0iMzMyLjAiIHgyPSI1MTYuMCIgeTI9IjMzMi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI0MjQuMCIgeTE9IjMzMi4wIiB4Mj0iNDI0LjAiIHkyPSI0MjQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNTE2LjAiIHkxPSIzMzIuMCIgeDI9IjYwOC4wIiB5Mj0iMzMyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjUxNi4wIiB5MT0iMzMyLjAiIHgyPSI1MTYuMCIgeTI9IjQyNC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI2MDguMCIgeTE9IjMzMi4wIiB4Mj0iNjA4LjAiIHkyPSI0MjQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNTYuMCIgeTE9IjQyNC4wIiB4Mj0iMTQ4LjAiIHkyPSI0MjQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMTQ4LjAiIHkxPSI0MjQuMCIgeDI9IjI0MC4wIiB5Mj0iNDI0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iNDI0LjAiIHgyPSIzMzIuMCIgeTI9IjQyNC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjQyNC4wIiB4Mj0iMjQwLjAiIHkyPSI1MTYuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMzMyLjAiIHkxPSI0MjQuMCIgeDI9IjQyNC4wIiB5Mj0iNDI0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjMzMi4wIiB5MT0iNDI0LjAiIHgyPSIzMzIuMCIgeTI9IjUxNi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSI0MjQuMCIgeTE9IjQyNC4wIiB4Mj0iNTE2LjAiIHkyPSI0MjQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDI0LjAiIHkxPSI0MjQuMCIgeDI9IjQyNC4wIiB5Mj0iNTE2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjUxNi4wIiB5MT0iNDI0LjAiIHgyPSI2MDguMCIgeTI9IjQyNC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjUxNi4wIiB4Mj0iMzMyLjAiIHkyPSI1MTYuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjQwLjAiIHkxPSI1MTYuMCIgeDI9IjI0MC4wIiB5Mj0iNjA4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjMzMi4wIiB5MT0iNTE2LjAiIHgyPSI0MjQuMCIgeTI9IjUxNi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjUxNi4wIiB4Mj0iMzMyLjAiIHkyPSI2MDguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDI0LjAiIHkxPSI1MTYuMCIgeDI9IjQyNC4wIiB5Mj0iNjA4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iNjA4LjAiIHgyPSIzMzIuMCIgeTI9IjYwOC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjYwOC4wIiB4Mj0iNDI0LjAiIHkyPSI2MDguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMjQwLjAiIHkxPSIyNDAuMCIgeDI9IjMzMi4wIiB5Mj0iMzMyLjAiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjMzMi4wIiB5MT0iMjQwLjAiIHgyPSIyNDAuMCIgeTI9IjMzMi4wIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjI0MC4wIiB4Mj0iNDI0LjAiIHkyPSIzMzIuMCIgc3Ryb2tlPSIjOWM3YTQ4IiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iNDI0LjAiIHkxPSIyNDAuMCIgeDI9IjMzMi4wIiB5Mj0iMzMyLjAiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iMzMyLjAiIHgyPSIzMzIuMCIgeTI9IjQyNC4wIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjxsaW5lIHgxPSIzMzIuMCIgeTE9IjMzMi4wIiB4Mj0iMjQwLjAiIHkyPSI0MjQuMCIgc3Ryb2tlPSIjOWM3YTQ4IiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSB4MT0iMzMyLjAiIHkxPSIzMzIuMCIgeDI9IjQyNC4wIiB5Mj0iNDI0LjAiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjQyNC4wIiB5MT0iMzMyLjAiIHgyPSIzMzIuMCIgeTI9IjQyNC4wIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iNTYuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzMzIuMCIgY3k9IjU2LjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNDI0LjAiIGN5PSI1Ni4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iMTQ4LjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzMyLjAiIGN5PSIxNDguMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0MjQuMCIgY3k9IjE0OC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjU2LjAiIGN5PSIyNDAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIxNDguMCIgY3k9IjI0MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iMjQwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzMyLjAiIGN5PSIyNDAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0MjQuMCIgY3k9IjI0MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjUxNi4wIiBjeT0iMjQwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNjA4LjAiIGN5PSIyNDAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI1Ni4wIiBjeT0iMzMyLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMTQ4LjAiIGN5PSIzMzIuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIyNDAuMCIgY3k9IjMzMi4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjMzMi4wIiBjeT0iMzMyLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNDI0LjAiIGN5PSIzMzIuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI1MTYuMCIgY3k9IjMzMi4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjYwOC4wIiBjeT0iMzMyLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNTYuMCIgY3k9IjQyNC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjE0OC4wIiBjeT0iNDI0LjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMjQwLjAiIGN5PSI0MjQuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzMzIuMCIgY3k9IjQyNC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQyNC4wIiBjeT0iNDI0LjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNTE2LjAiIGN5PSI0MjQuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI2MDguMCIgY3k9IjQyNC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iNTE2LjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzMyLjAiIGN5PSI1MTYuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0MjQuMCIgY3k9IjUxNi4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iNjA4LjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzMyLjAiIGN5PSI2MDguMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0MjQuMCIgY3k9IjYwOC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjwvc3ZnPg==",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.07
+  },
+  "pieces": [
+    {
+      "type": "fox",
+      "label": "Fox",
+      "glyph": "🦊"
+    },
+    {
+      "type": "goose",
+      "label": "Goose",
+      "glyph": "",
+      "bg": "#efe4cc"
+    }
+  ],
+  "setup": [
+    {
+      "type": "fox",
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "type": "goose",
+      "x": 0.3614,
+      "y": 0.7771
+    },
+    {
+      "type": "goose",
+      "x": 0.5,
+      "y": 0.7771
+    },
+    {
+      "type": "goose",
+      "x": 0.6386,
+      "y": 0.7771
+    },
+    {
+      "type": "goose",
+      "x": 0.3614,
+      "y": 0.9157
+    },
+    {
+      "type": "goose",
+      "x": 0.5,
+      "y": 0.9157
+    },
+    {
+      "type": "goose",
+      "x": 0.6386,
+      "y": 0.9157
+    },
+    {
+      "type": "goose",
+      "x": 0.0843,
+      "y": 0.6386
+    },
+    {
+      "type": "goose",
+      "x": 0.2229,
+      "y": 0.6386
+    },
+    {
+      "type": "goose",
+      "x": 0.7771,
+      "y": 0.6386
+    },
+    {
+      "type": "goose",
+      "x": 0.9157,
+      "y": 0.6386
+    },
+    {
+      "type": "goose",
+      "x": 0.3614,
+      "y": 0.6386
+    },
+    {
+      "type": "goose",
+      "x": 0.5,
+      "y": 0.6386
+    },
+    {
+      "type": "goose",
+      "x": 0.6386,
+      "y": 0.6386
+    }
+  ],
+  "turns": {
+    "players": [
+      "Geese",
+      "Fox"
+    ],
+    "track": true
+  },
+  "category_label": "Hunt & siege",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/fox-and-geese.json"
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "bao",
+  "name": "Bao",
+  "description": "The deepest mancala of all — four rows, a special house, and a master's reputation at stake.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI2IDU1NCIgd2lkdGg9IjEwMjYiIGhlaWdodD0iNTU0Ij48cmVjdCB3aWR0aD0iMTAyNiIgaGVpZ2h0PSI1NTQiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIxNS4wIiB5PSIxNS4wIiB3aWR0aD0iOTk2IiBoZWlnaHQ9IjUyNCIgcng9IjQ2IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxjaXJjbGUgY3g9IjEwMCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMjE4IiBjeT0iMTAwIiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIzMzYiIGN5PSIxMDAiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjQ1NCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iNTcyIiBjeT0iMTAwIiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI2OTAiIGN5PSIxMDAiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjgwOCIgY3k9IjEwMCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iOTI2IiBjeT0iMTAwIiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIyMTgiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjIxOCIgY3k9IjIxOCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMzM2IiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI0NTQiIGN5PSIyMTgiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxyZWN0IHg9IjQyMyIgeT0iMTg3IiB3aWR0aD0iNjEiIGhlaWdodD0iNjEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2I0NDcyZSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGNpcmNsZSBjeD0iNTcyIiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI2OTAiIGN5PSIyMTgiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjgwOCIgY3k9IjIxOCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iOTI2IiBjeT0iMjE4IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIzMzYiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjIxOCIgY3k9IjMzNiIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMzM2IiBjeT0iMzM2IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI0NTQiIGN5PSIzMzYiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjU3MiIgY3k9IjMzNiIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHJlY3QgeD0iNTQxIiB5PSIzMDUiIHdpZHRoPSI2MSIgaGVpZ2h0PSI2MSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYjQ0NzJlIiBzdHJva2Utd2lkdGg9IjMiLz48Y2lyY2xlIGN4PSI2OTAiIGN5PSIzMzYiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjgwOCIgY3k9IjMzNiIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iOTI2IiBjeT0iMzM2IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSI0NTQiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjIxOCIgY3k9IjQ1NCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iMzM2IiBjeT0iNDU0IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI0NTQiIGN5PSI0NTQiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjU3MiIgY3k9IjQ1NCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iNjkwIiBjeT0iNDU0IiByPSI0OCIgZmlsbD0iI2U4ZDhiNiIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI4MDgiIGN5PSI0NTQiIHI9IjQ4IiBmaWxsPSIjZThkOGI2IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjkyNiIgY3k9IjQ1NCIgcj0iNDgiIGZpbGw9IiNlOGQ4YjYiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PC9zdmc+",
+    "aspect": 1.852,
+    "color": "#211a12",
+    "pieceSize": 0.022
+  },
+  "pieces": [
+    {
+      "type": "seed",
+      "label": "Seed (kete)",
+      "glyph": "",
+      "bg": "#6b4a2a"
+    }
+  ],
+  "turns": {
+    "players": [
+      "South",
+      "North"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Empty your opponent's front row, or leave them with no legal move.",
+    "setup": "Four rows of eight pits — two rows each side. Each player has a special pit, the nyumba ('house'). The opening (the namua phase) feeds seeds in from a reserve in a prescribed way.",
+    "howToPlay": [
+      "Lift the seeds from a pit and sow them around your two rows; a sowing that ends in a non-empty pit continues, relay-fashion.",
+      "When a sowing ends in an occupied front-row pit facing enemy seeds, you capture the opposing seeds and re-sow them on your own side.",
+      "The nyumba and the two-phase structure (namua, then mtaji) give bao its famous depth."
+    ],
+    "winning": "You win by capturing or starving the opponent's front row so they cannot move.",
+    "variants": [
+      "Bao la kiswahili (the full game) vs the simpler bao la kujifunza ('bao for learning')."
+    ],
+    "players": "2",
+    "duration": "20–45 min"
+  },
+  "context": {
+    "period": "East Africa, Swahili coast, traditional",
+    "blurb": "Bao — Swahili for 'board' — is the prestige mancala of the East African coast, Zanzibar, Tanzania and the Comoros, played on a four-row board often beautifully carved. It is widely regarded as the most complex traditional sowing game: a relay of cascading captures across two phases that masters (bingwa) study for years. Tournaments and a respected oral theory surround it; to be a great bao player is a mark of real standing.",
+    "sources": [
+      "Townshend, P. (1979). 'Bao (Mankala): The Swahili Ethic in African Idiom.'",
+      "de Voogt, A. (1995). Limits of the Mind: Towards a Characterisation of Bao Mastership."
+    ]
+  }
+}

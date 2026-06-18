@@ -1,0 +1,179 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "alquerque",
+  "name": "Alquerque",
+  "description": "The medieval ancestor of draughts — leap and capture along a five-by-five lattice.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MjAgNzIwIiB3aWR0aD0iNzIwIiBoZWlnaHQ9IjcyMCI+PHJlY3Qgd2lkdGg9IjcyMCIgaGVpZ2h0PSI3MjAiIGZpbGw9IiNlOGQ4YjYiLz48bGluZSB4MT0iMTIwLjAiIHkxPSIxMjAuMCIgeDI9IjYwMC4wIiB5Mj0iMTIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjEyMC4wIiB5MT0iMjQwLjAiIHgyPSI2MDAuMCIgeTI9IjI0MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIxMjAuMCIgeTE9IjM2MC4wIiB4Mj0iNjAwLjAiIHkyPSIzNjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMTIwLjAiIHkxPSI0ODAuMCIgeDI9IjYwMC4wIiB5Mj0iNDgwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjEyMC4wIiB5MT0iNjAwLjAiIHgyPSI2MDAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIxMjAuMCIgeTE9IjEyMC4wIiB4Mj0iMTIwLjAiIHkyPSI2MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMjQwLjAiIHkxPSIxMjAuMCIgeDI9IjI0MC4wIiB5Mj0iNjAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjM2MC4wIiB5MT0iMTIwLjAiIHgyPSIzNjAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI0ODAuMCIgeTE9IjEyMC4wIiB4Mj0iNDgwLjAiIHkyPSI2MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNjAwLjAiIHkxPSIxMjAuMCIgeDI9IjYwMC4wIiB5Mj0iNjAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjEyMC4wIiB5MT0iMTIwLjAiIHgyPSIyNDAuMCIgeTI9IjI0MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjEyMC4wIiB4Mj0iMTIwLjAiIHkyPSIyNDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMzYwLjAiIHkxPSIxMjAuMCIgeDI9IjQ4MC4wIiB5Mj0iMjQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjQ4MC4wIiB5MT0iMTIwLjAiIHgyPSIzNjAuMCIgeTI9IjI0MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjI0MC4wIiB4Mj0iMzYwLjAiIHkyPSIzNjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMzYwLjAiIHkxPSIyNDAuMCIgeDI9IjI0MC4wIiB5Mj0iMzYwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjQ4MC4wIiB5MT0iMjQwLjAiIHgyPSI2MDAuMCIgeTI9IjM2MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI2MDAuMCIgeTE9IjI0MC4wIiB4Mj0iNDgwLjAiIHkyPSIzNjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMTIwLjAiIHkxPSIzNjAuMCIgeDI9IjI0MC4wIiB5Mj0iNDgwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iMzYwLjAiIHgyPSIxMjAuMCIgeTI9IjQ4MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIzNjAuMCIgeTE9IjM2MC4wIiB4Mj0iNDgwLjAiIHkyPSI0ODAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNDgwLjAiIHkxPSIzNjAuMCIgeDI9IjM2MC4wIiB5Mj0iNDgwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iNDgwLjAiIHgyPSIzNjAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIzNjAuMCIgeTE9IjQ4MC4wIiB4Mj0iMjQwLjAiIHkyPSI2MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNDgwLjAiIHkxPSI0ODAuMCIgeDI9IjYwMC4wIiB5Mj0iNjAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjYwMC4wIiB5MT0iNDgwLjAiIHgyPSI0ODAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjEyMC4wIiBjeT0iMTIwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMjQwLjAiIGN5PSIxMjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzNjAuMCIgY3k9IjEyMC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQ4MC4wIiBjeT0iMTIwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNjAwLjAiIGN5PSIxMjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIxMjAuMCIgY3k9IjI0MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iMjQwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzYwLjAiIGN5PSIyNDAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0ODAuMCIgY3k9IjI0MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjYwMC4wIiBjeT0iMjQwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMTIwLjAiIGN5PSIzNjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIyNDAuMCIgY3k9IjM2MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjM2MC4wIiBjeT0iMzYwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNDgwLjAiIGN5PSIzNjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI2MDAuMCIgY3k9IjM2MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjEyMC4wIiBjeT0iNDgwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMjQwLjAiIGN5PSI0ODAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzNjAuMCIgY3k9IjQ4MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQ4MC4wIiBjeT0iNDgwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNjAwLjAiIGN5PSI0ODAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIxMjAuMCIgY3k9IjYwMC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iNjAwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzYwLjAiIGN5PSI2MDAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0ODAuMCIgY3k9IjYwMC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjYwMC4wIiBjeT0iNjAwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.15
+  },
+  "pieces": [
+    {
+      "type": "w",
+      "label": "White",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b",
+      "label": "Black",
+      "glyph": "",
+      "bg": "#2b241c"
+    }
+  ],
+  "setup": [
+    {
+      "type": "w",
+      "x": 0.1667,
+      "y": 0.1667
+    },
+    {
+      "type": "w",
+      "x": 0.3333,
+      "y": 0.1667
+    },
+    {
+      "type": "w",
+      "x": 0.5,
+      "y": 0.1667
+    },
+    {
+      "type": "w",
+      "x": 0.6667,
+      "y": 0.1667
+    },
+    {
+      "type": "w",
+      "x": 0.8333,
+      "y": 0.1667
+    },
+    {
+      "type": "w",
+      "x": 0.1667,
+      "y": 0.3333
+    },
+    {
+      "type": "w",
+      "x": 0.3333,
+      "y": 0.3333
+    },
+    {
+      "type": "w",
+      "x": 0.5,
+      "y": 0.3333
+    },
+    {
+      "type": "w",
+      "x": 0.6667,
+      "y": 0.3333
+    },
+    {
+      "type": "w",
+      "x": 0.8333,
+      "y": 0.3333
+    },
+    {
+      "type": "w",
+      "x": 0.1667,
+      "y": 0.5
+    },
+    {
+      "type": "w",
+      "x": 0.3333,
+      "y": 0.5
+    },
+    {
+      "type": "b",
+      "x": 0.1667,
+      "y": 0.8333
+    },
+    {
+      "type": "b",
+      "x": 0.3333,
+      "y": 0.8333
+    },
+    {
+      "type": "b",
+      "x": 0.5,
+      "y": 0.8333
+    },
+    {
+      "type": "b",
+      "x": 0.6667,
+      "y": 0.8333
+    },
+    {
+      "type": "b",
+      "x": 0.8333,
+      "y": 0.8333
+    },
+    {
+      "type": "b",
+      "x": 0.1667,
+      "y": 0.6667
+    },
+    {
+      "type": "b",
+      "x": 0.3333,
+      "y": 0.6667
+    },
+    {
+      "type": "b",
+      "x": 0.5,
+      "y": 0.6667
+    },
+    {
+      "type": "b",
+      "x": 0.6667,
+      "y": 0.6667
+    },
+    {
+      "type": "b",
+      "x": 0.8333,
+      "y": 0.6667
+    },
+    {
+      "type": "b",
+      "x": 0.6667,
+      "y": 0.5
+    },
+    {
+      "type": "b",
+      "x": 0.8333,
+      "y": 0.5
+    }
+  ],
+  "turns": {
+    "players": [
+      "White",
+      "Black"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Capture all of your opponent's pieces.",
+    "setup": "A board of 25 points joined by lines, orthogonal and diagonal. Each player has 12 pieces filling their two-and-a-half rows; the central point starts empty.",
+    "howToPlay": [
+      "Players alternate. A piece moves one step along any line to the adjacent empty point.",
+      "Capture by jumping: hop over an adjacent enemy piece to the empty point directly beyond, along a line, and remove it.",
+      "Multiple jumps may be chained in a single turn."
+    ],
+    "winning": "Take all the enemy pieces, or leave them with no legal move.",
+    "variants": [
+      "Many versions require ('huffing') a capture when one is available.",
+      "Alquerque is the parent of draughts/checkers once play moved onto the squares of a chessboard."
+    ],
+    "players": "2",
+    "duration": "10–20 min"
+  },
+  "context": {
+    "period": "Medieval Islamic world; recorded in Iberia, 13th c.",
+    "blurb": "Alquerque — from the Arabic al-qirq, the game qirkat described by the 10th-century scholar al-Mas'udi — is a capture-by-leaping game on a 5×5 lattice. It reached western Europe through al-Andalus and was illustrated in Alfonso X of Castile's Libro de los juegos (1283). When players later moved the same game onto the dark squares of a chessboard and added promotion, draughts (checkers) was born. Boards identical to alquerque's are cut into temple roofs in Egypt and across Asia.",
+    "sources": [
+      "Alfonso X (1283). Libro de los juegos.",
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford."
+    ]
+  }
+}

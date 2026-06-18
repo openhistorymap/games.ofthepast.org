@@ -1,0 +1,106 @@
+{
+  "id": "pachisi",
+  "name": "Pachisi",
+  "native": "पचीसी",
+  "aka": [
+    "Chaupar",
+    "Twenty-five",
+    "Royal Ludo"
+  ],
+  "category": "race",
+  "origin": "India (Mughal era and earlier)",
+  "region": "South Asia",
+  "era": "by c. 6th c. CE",
+  "players": "2–4",
+  "duration": "30–60 min",
+  "wp": "Pachisi",
+  "reconstruction": false,
+  "tagline": "India's great cross-and-circle race — Akbar is said to have played it with living pieces.",
+  "rules": {
+    "objective": "Race your four pieces out from home, around the cross-shaped track, and back into the central charkoni before your partners' opponents do.",
+    "setup": "A cloth cross of four arms around a central home square. Four players (often as two partnerships) each take four pieces. Throw six or seven cowrie shells for movement.",
+    "howToPlay": [
+      "Throw the cowries and count the shells that fall mouth-up; special counts (e.g. all up) grant a bonus move and another throw.",
+      "Move a piece down its arm, anticlockwise around the outer track, and up the middle of its own arm to home.",
+      "Two of your pieces on a square form a block; landing on an enemy on an unprotected square sends it back to start.",
+      "The rosette 'castle' squares are safe — no piece may be captured there."
+    ],
+    "winning": "The first player (or partnership) to bring all their pieces home wins.",
+    "variants": [
+      "Chaupar uses three long dice instead of cowries; the modern board game Ludo is a simplified pachisi."
+    ],
+    "players": "2–4",
+    "duration": "30–60 min"
+  },
+  "context": {
+    "period": "India, medieval through Mughal era",
+    "blurb": "Pachisi — from pachīs, 'twenty-five', the best throw of the cowries — is the national cross-and-circle race game of India and the ancestor of Ludo and Parcheesi. The Mughal emperor Akbar is famously said to have laid out a giant pachisi court at Fatehpur Sikri and played with sixteen slave girls as the pieces. Played on an embroidered cloth, with partners sitting crosswise, it is as much a social ritual as a race.",
+    "sources": [
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford.",
+      "Culin, S. (1898). Chess and Playing Cards."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5NjAgOTYwIiB3aWR0aD0iOTYwIiBoZWlnaHQ9Ijk2MCI+PHJlY3Qgd2lkdGg9Ijk2MCIgaGVpZ2h0PSI5NjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIzODQiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI0NDgiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1MTIiIHk9IjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjY0IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNDQ4IiB5PSI2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjUxMiIgeT0iNjQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjEyOCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iMTI4IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSIxMjgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjE5MiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iMTkyIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSIxOTIiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjI1NiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iMjU2IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSIyNTYiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjMyMCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iMzIwIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSIzMjAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjU3NiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iNTc2IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSI1NzYiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjY0MCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iNjQwIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSI2NDAiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjcwNCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iNzA0IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSI3MDQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9Ijc2OCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iNzY4IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSI3NjgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjgzMiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iODMyIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSI4MzIiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9Ijg5NiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjQ0OCIgeT0iODk2IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNTEyIiB5PSI4OTYiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIwIiB5PSIzODQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI2NCIgeT0iMzg0IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMTI4IiB5PSIzODQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIxOTIiIHk9IjM4NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjI1NiIgeT0iMzg0IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMzIwIiB5PSIzODQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIwIiB5PSI0NDgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI2NCIgeT0iNDQ4IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMTI4IiB5PSI0NDgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIxOTIiIHk9IjQ0OCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjI1NiIgeT0iNDQ4IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMzIwIiB5PSI0NDgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIwIiB5PSI1MTIiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI2NCIgeT0iNTEyIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMTI4IiB5PSI1MTIiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIxOTIiIHk9IjUxMiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjI1NiIgeT0iNTEyIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iMzIwIiB5PSI1MTIiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1NzYiIHk9IjM4NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjY0MCIgeT0iMzg0IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNzA0IiB5PSIzODQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI3NjgiIHk9IjM4NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjgzMiIgeT0iMzg0IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iODk2IiB5PSIzODQiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1NzYiIHk9IjQ0OCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjY0MCIgeT0iNDQ4IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNzA0IiB5PSI0NDgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI3NjgiIHk9IjQ0OCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjgzMiIgeT0iNDQ4IiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iODk2IiB5PSI0NDgiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI1NzYiIHk9IjUxMiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjY0MCIgeT0iNTEyIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNzA0IiB5PSI1MTIiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI3NjgiIHk9IjUxMiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMiIvPjxyZWN0IHg9IjgzMiIgeT0iNTEyIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iODk2IiB5PSI1MTIiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzODQiIHk9IjM4NCIgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHRleHQgeD0iNDgwLjAiIHk9IjQ5MC4wIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIzMCIgZmlsbD0iIzZiNGEyYSIgb3BhY2l0eT0iMC41NSIgbGV0dGVyLXNwYWNpbmc9IjQiPkNIQVJLT05JPC90ZXh0PjxjaXJjbGUgY3g9IjQ4MC4wIiBjeT0iOTYuMCIgcj0iMTIiIGZpbGw9IiNiNDQ3MmUiIG9wYWNpdHk9IjAuOCIvPjxjaXJjbGUgY3g9IjQ4MC4wIiBjeT0iODY0LjAiIHI9IjEyIiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjgiLz48Y2lyY2xlIGN4PSI5Ni4wIiBjeT0iNDgwLjAiIHI9IjEyIiBmaWxsPSIjYjQ0NzJlIiBvcGFjaXR5PSIwLjgiLz48Y2lyY2xlIGN4PSI4NjQuMCIgY3k9IjQ4MC4wIiByPSIxMiIgZmlsbD0iI2I0NDcyZSIgb3BhY2l0eT0iMC44Ii8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.03
+  },
+  "pieces": [
+    {
+      "type": "y",
+      "label": "Yellow",
+      "glyph": "",
+      "bg": "#d8a73a"
+    },
+    {
+      "type": "g",
+      "label": "Green",
+      "glyph": "",
+      "bg": "#3f7a55"
+    },
+    {
+      "type": "r",
+      "label": "Red",
+      "glyph": "",
+      "bg": "#a8412e"
+    },
+    {
+      "type": "k",
+      "label": "Black",
+      "glyph": "",
+      "bg": "#2b241c"
+    }
+  ],
+  "setup": [],
+  "dice": [
+    {
+      "id": "cowries",
+      "label": "Cowrie shells",
+      "glyph": "🐚",
+      "count": 6,
+      "faces": [
+        {
+          "label": "◡ up",
+          "value": 1
+        },
+        {
+          "label": "● down",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "turns": {
+    "players": [
+      "Yellow",
+      "Green",
+      "Red",
+      "Black"
+    ],
+    "track": true
+  },
+  "category_label": "Race & tables",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/pachisi.json"
+}

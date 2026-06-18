@@ -1,0 +1,59 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "morra",
+  "name": "Morra",
+  "description": "Throw out fingers and shout the sum — the oldest hand game still played, from Rome to today.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYyMCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIyMiIgeT0iMjIiIHdpZHRoPSI4NTYiIGhlaWdodD0iNTc2IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjMyIiB5PSIzMiIgd2lkdGg9IjgzNiIgaGVpZ2h0PSI1NTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGVsbGlwc2UgY3g9IjQ1MC4wIiBjeT0iMzEwLjAiIHJ4PSIyNTAiIHJ5PSIxNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjUiLz48dGV4dCB4PSI0NTAuMCIgeT0iMzMyLjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9Ijg0IiBsZXR0ZXItc3BhY2luZz0iMTIiIGZpbGw9IiM2YjRhMmEiIG9wYWNpdHk9IjAuMjIiPk1PUlJBPC90ZXh0Pjwvc3ZnPg==",
+    "aspect": 1.4516,
+    "color": "#211a12",
+    "pieceSize": 0.06
+  },
+  "pieces": [
+    {
+      "type": "h1",
+      "label": "Player one's hand",
+      "glyph": "✋"
+    },
+    {
+      "type": "h2",
+      "label": "Player two's hand",
+      "glyph": "🖐"
+    },
+    {
+      "type": "fist",
+      "label": "Fist (zero)",
+      "glyph": "✊"
+    }
+  ],
+  "turns": {
+    "players": [
+      "Primus",
+      "Secundus"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Call the exact total of fingers both players will throw.",
+    "setup": "Nothing but two hands. Players face off; agree the stake or the target score.",
+    "howToPlay": [
+      "On a count, both players simultaneously thrust out some fingers (0–5) and each shouts a number aloud — their guess at the sum of both hands.",
+      "Reveal and add the fingers shown.",
+      "A player who shouted the correct total scores a point (if both are right, or both wrong, no one scores)."
+    ],
+    "winning": "First to the agreed score (often 16) wins. The Romans had a proverb for an honest man: 'one you could play morra with in the dark'.",
+    "variants": [
+      "The Chinese drinking game huāquán and the Italian morra are essentially the same game."
+    ],
+    "players": "2",
+    "duration": "2 min"
+  },
+  "context": {
+    "period": "Mediterranean antiquity to the present day",
+    "blurb": "Morra — Roman micatio, 'flashing (the fingers)' — is one of the oldest games still played, shown on Egyptian tomb paintings and Greek vases and named throughout Latin literature. Two players simultaneously throw out fingers and call the total; lightning reflexes and bluff decide it. Cicero's test of an honest dealer was a man 'with whom you could play micatio in the dark' — dignus quicum in tenebris mices. It is still played, loudly, across the Mediterranean.",
+    "sources": [
+      "Cicero, De Officiis III.77.",
+      "Becq de Fouquières, L. (1873). Les Jeux des Anciens."
+    ]
+  }
+}

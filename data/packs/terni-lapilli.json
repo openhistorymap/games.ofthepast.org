@@ -1,0 +1,57 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "terni-lapilli",
+  "name": "Terni Lapilli",
+  "description": "Three pebbles in a row, scratched on a thousand steps from Rome to China.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjYwMCI+PHJlY3Qgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIyNCIgeT0iMjQiIHdpZHRoPSI1NTIiIGhlaWdodD0iNTUyIiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjM0IiB5PSIzNCIgd2lkdGg9IjUzMiIgaGVpZ2h0PSI1MzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgeDE9IjkwLjAiIHkxPSI5MC4wIiB4Mj0iNTEwLjAiIHkyPSI5MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI5MC4wIiB5MT0iMzAwLjAiIHgyPSI1MTAuMCIgeTI9IjMwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI5MC4wIiB5MT0iNTEwLjAiIHgyPSI1MTAuMCIgeTI9IjUxMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI5MC4wIiB5MT0iOTAuMCIgeDI9IjkwLjAiIHkyPSI1MTAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iMzAwLjAiIHkxPSI5MC4wIiB4Mj0iMzAwLjAiIHkyPSI1MTAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iNTEwLjAiIHkxPSI5MC4wIiB4Mj0iNTEwLjAiIHkyPSI1MTAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iOTAuMCIgeTE9IjkwLjAiIHgyPSI1MTAuMCIgeTI9IjUxMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI1MTAuMCIgeTE9IjkwLjAiIHgyPSI5MC4wIiB5Mj0iNTEwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGNpcmNsZSBjeD0iOTAuMCIgY3k9IjkwLjAiIHI9IjEzIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzAwLjAiIGN5PSI5MC4wIiByPSIxMyIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjUxMC4wIiBjeT0iOTAuMCIgcj0iMTMiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI5MC4wIiBjeT0iMzAwLjAiIHI9IjEzIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzAwLjAiIGN5PSIzMDAuMCIgcj0iMTMiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI1MTAuMCIgY3k9IjMwMC4wIiByPSIxMyIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjkwLjAiIGN5PSI1MTAuMCIgcj0iMTMiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzMDAuMCIgY3k9IjUxMC4wIiByPSIxMyIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjUxMC4wIiBjeT0iNTEwLjAiIHI9IjEzIiBmaWxsPSIjNGYzNzIwIi8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.12
+  },
+  "pieces": [
+    {
+      "type": "a",
+      "label": "Album (bone)",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r",
+      "label": "Ruber (terracotta)",
+      "glyph": "",
+      "bg": "#a8412e"
+    }
+  ],
+  "turns": {
+    "players": [
+      "Album",
+      "Ruber"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Make a straight line of your three pieces along any row, column or diagonal.",
+    "setup": "An empty board of nine points. Each player has three pieces.",
+    "howToPlay": [
+      "Take turns placing one of your three pieces on any empty point.",
+      "When all six pieces are down, take turns moving one piece along a line to an adjacent empty point.",
+      "Keep manoeuvring until someone lines up three."
+    ],
+    "winning": "Three of your pieces in a straight line wins at once.",
+    "variants": [
+      "Allow a piece to move to any empty point for a faster game.",
+      "Played without the moving phase it becomes simple noughts and crosses."
+    ],
+    "players": "2",
+    "duration": "5 min"
+  },
+  "context": {
+    "period": "Roman Empire, ubiquitous 1st–5th c. CE",
+    "blurb": "Terni lapilli — 'three little stones' — is Rome's three men's morris, mentioned by Ovid as a game a fashionable woman should know. Its boards are among the commonest ancient graffiti, scratched into the steps of the Forum and pavements across the empire. Near-identical three-in-a-row games appear independently worldwide, from the Chinese luk tsut k'i to boards in Sri Lanka and the Americas — perhaps the most universal board game of all.",
+    "sources": [
+      "Ovid, Ars Amatoria III.365–366.",
+      "Bell, R. C. (1979). Board and Table Games from Many Civilizations. Dover."
+    ]
+  }
+}

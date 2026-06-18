@@ -1,0 +1,56 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "hazard",
+  "name": "Hazard",
+  "description": "The great gambling dice game of the medieval tavern — Chaucer's 'bones' and the parent of craps.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYyMCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIyMiIgeT0iMjIiIHdpZHRoPSI4NTYiIGhlaWdodD0iNTc2IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjMyIiB5PSIzMiIgd2lkdGg9IjgzNiIgaGVpZ2h0PSI1NTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGVsbGlwc2UgY3g9IjQ1MC4wIiBjeT0iMzEwLjAiIHJ4PSIyNTAiIHJ5PSIxNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjUiLz48dGV4dCB4PSI0NTAuMCIgeT0iMzMyLjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9Ijg0IiBsZXR0ZXItc3BhY2luZz0iMTIiIGZpbGw9IiM2YjRhMmEiIG9wYWNpdHk9IjAuMjIiPkhBWkFSRDwvdGV4dD48L3N2Zz4=",
+    "aspect": 1.4516,
+    "color": "#211a12",
+    "pieceSize": 0.06
+  },
+  "pieces": [
+    {
+      "type": "stake",
+      "label": "Stake",
+      "glyph": "✸",
+      "color": "#c8a24e",
+      "bg": "#3a2c1a"
+    }
+  ],
+  "dice": [
+    {
+      "id": "dice",
+      "label": "Dice",
+      "glyph": "🎲",
+      "sides": 6,
+      "count": 2
+    }
+  ],
+  "turns": {
+    "track": true
+  },
+  "rules": {
+    "objective": "As the caster, win against the table by hitting your point before you 'throw out'.",
+    "setup": "Two dice and a ring of bettors around the caster (the thrower). Stakes are placed.",
+    "howToPlay": [
+      "The caster first chooses or rolls a 'main' (a number from 5 to 9).",
+      "He then throws: rolling the main is an instant win ('nick'); rolling 2 or 3 (or certain numbers) is an instant loss ('throws out').",
+      "Otherwise the thrown total becomes his 'chance'; he keeps throwing until he repeats the chance (he wins) or repeats the main (he loses)."
+    ],
+    "winning": "The caster wins the stakes on a nick or by hitting his chance; the table wins when he throws out.",
+    "variants": [
+      "American sailors simplified hazard into craps; the odds language ('main', 'chance') survives in casino play."
+    ],
+    "players": "2+",
+    "duration": "10 min"
+  },
+  "context": {
+    "period": "Medieval Arabic world and Europe; named in England by the 14th c.",
+    "blurb": "Hazard is the most important dice game of the European Middle Ages and the direct ancestor of craps. Its very name comes from the Arabic az-zahr, 'the die', and the game seems to have reached Europe from the Islamic world during the Crusades. Chaucer's Pardoner rails against the 'hazardours' who swear on the bones; for centuries it was THE game of soldiers, sailors and gentlemen's clubs alike, with an elaborate vocabulary of mains and chances.",
+    "sources": [
+      "Chaucer, G. The Canterbury Tales, The Pardoner's Tale.",
+      "Hoyle, E. (1750s). Hoyle's Games (rules of Hazard)."
+    ]
+  }
+}

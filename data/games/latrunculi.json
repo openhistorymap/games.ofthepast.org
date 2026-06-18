@@ -1,0 +1,330 @@
+{
+  "id": "latrunculi",
+  "name": "Ludus latrunculorum",
+  "native": "Ludus latrunculorum",
+  "aka": [
+    "Latrunculi",
+    "Latrones",
+    "The game of little soldiers"
+  ],
+  "category": "war",
+  "origin": "Ancient Rome",
+  "region": "Europe",
+  "era": "c. 2nd c. BCE – 4th c. CE",
+  "players": "2",
+  "duration": "20–40 min",
+  "wp": "Ludus latrunculorum",
+  "reconstruction": true,
+  "tagline": "Rome's game of soldiers — surround and capture on a grid of squares.",
+  "rules": {
+    "objective": "Capture your opponent's soldiers by trapping them, and corner their commander.",
+    "setup": "Each player takes a row of soldiers (the latrones) of one colour plus a single commander (the dux). Boards of many sizes survive — 8×8, 8×12, 9×10; this pack uses 12×8.",
+    "howToPlay": [
+      "Players alternate, moving one piece per turn.",
+      "A soldier moves any number of empty squares straight along a rank or file (like a rook) — not diagonally.",
+      "Capture by custodia: bracket a single enemy soldier between two of yours on opposite sides. The bracketed soldier is removed.",
+      "Moving your own piece into a gap between two enemies is safe — you are only captured when the enemy closes the bracket."
+    ],
+    "winning": "Reduce the enemy until they cannot resist, or blockade the enemy dux so it cannot move (ad incitas redactus — 'driven to a standstill').",
+    "variants": [
+      "Board size is a house choice — the smaller the board, the sharper the game.",
+      "Play without a dux for a pure surround-capture game."
+    ],
+    "players": "2",
+    "duration": "20–40 min"
+  },
+  "context": {
+    "period": "Roman Republic & Empire, c. 2nd c. BCE – 4th c. CE",
+    "blurb": "Ludus latrunculorum — 'the game of little robbers/soldiers' — was Rome's game of military skill, praised by Varro, Ovid and Martial as a contest of strategy without luck. Soldiers were captured by being flanked on two sides. The exact rules were never written down: what is played today is a careful modern reconstruction (notably by Ulrich Schädler) from scattered literary hints and surviving boards. Treat the moves below as one well-argued reading, not gospel.",
+    "sources": [
+      "Schädler, U. (1994). Latrunculi — ein verlorenes strategisches Brettspiel der Römer.",
+      "Austin, R. G. (1934). 'Roman Board Games.' Greece & Rome 4(11)."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDMyIDY4OCIgd2lkdGg9IjEwMzIiIGhlaWdodD0iNjg4Ij48cmVjdCB3aWR0aD0iMTAzMiIgaGVpZ2h0PSI2ODgiIGZpbGw9IiNlOGQ4YjYiLz48bGluZSB4MT0iMC4wIiB5MT0iMC4wIiB4Mj0iMC4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9Ijg2LjAiIHkxPSIwLjAiIHgyPSI4Ni4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjE3Mi4wIiB5MT0iMC4wIiB4Mj0iMTcyLjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMjU4LjAiIHkxPSIwLjAiIHgyPSIyNTguMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIzNDQuMCIgeTE9IjAuMCIgeDI9IjM0NC4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjQzMC4wIiB5MT0iMC4wIiB4Mj0iNDMwLjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNTE2LjAiIHkxPSIwLjAiIHgyPSI1MTYuMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI2MDIuMCIgeTE9IjAuMCIgeDI9IjYwMi4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjY4OC4wIiB5MT0iMC4wIiB4Mj0iNjg4LjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNzc0LjAiIHkxPSIwLjAiIHgyPSI3NzQuMCIgeTI9IjY4OC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI4NjAuMCIgeTE9IjAuMCIgeDI9Ijg2MC4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9Ijk0Ni4wIiB5MT0iMC4wIiB4Mj0iOTQ2LjAiIHkyPSI2ODguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMTAzMi4wIiB5MT0iMC4wIiB4Mj0iMTAzMi4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjAuMCIgeDI9IjEwMzIuMCIgeTI9IjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iODYuMCIgeDI9IjEwMzIuMCIgeTI9Ijg2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjE3Mi4wIiB4Mj0iMTAzMi4wIiB5Mj0iMTcyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjI1OC4wIiB4Mj0iMTAzMi4wIiB5Mj0iMjU4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjM0NC4wIiB4Mj0iMTAzMi4wIiB5Mj0iMzQ0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjQzMC4wIiB4Mj0iMTAzMi4wIiB5Mj0iNDMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjUxNi4wIiB4Mj0iMTAzMi4wIiB5Mj0iNTE2LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjYwMi4wIiB4Mj0iMTAzMi4wIiB5Mj0iNjAyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjY4OC4wIiB4Mj0iMTAzMi4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMzIiIGhlaWdodD0iNjg4IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEwMTIiIGhlaWdodD0iNjY4IiBmaWxsPSJub25lIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==",
+    "aspect": 1.5,
+    "color": "#211a12",
+    "pieceSize": 0.0683
+  },
+  "pieces": [
+    {
+      "type": "rome",
+      "label": "Roman soldier",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "host",
+      "label": "Opposing soldier",
+      "glyph": "",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "dux-r",
+      "label": "Roman dux",
+      "glyph": "✪",
+      "color": "#b4472e",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "dux-h",
+      "label": "Opposing dux",
+      "glyph": "✪",
+      "color": "#c8a24e",
+      "bg": "#2b241c"
+    }
+  ],
+  "setup": [
+    {
+      "type": "rome",
+      "x": 0.12,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.1891,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.2582,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.3273,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.3964,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.4655,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.5345,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.6036,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.6727,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.7418,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.8109,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.88,
+      "y": 0.94
+    },
+    {
+      "type": "rome",
+      "x": 0.16,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.228,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.296,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.364,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.432,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.5,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.568,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.636,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.704,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.772,
+      "y": 0.81
+    },
+    {
+      "type": "rome",
+      "x": 0.84,
+      "y": 0.81
+    },
+    {
+      "type": "host",
+      "x": 0.12,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.1891,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.2582,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.3273,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.3964,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.4655,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.5345,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.6036,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.6727,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.7418,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.8109,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.88,
+      "y": 0.06
+    },
+    {
+      "type": "host",
+      "x": 0.16,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.228,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.296,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.364,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.432,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.5,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.568,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.636,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.704,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.772,
+      "y": 0.19
+    },
+    {
+      "type": "host",
+      "x": 0.84,
+      "y": 0.19
+    },
+    {
+      "type": "dux-r",
+      "x": 0.5,
+      "y": 0.94
+    },
+    {
+      "type": "dux-h",
+      "x": 0.5,
+      "y": 0.06
+    }
+  ],
+  "turns": {
+    "players": [
+      "Roma",
+      "Hostes"
+    ],
+    "track": true
+  },
+  "category_label": "War & strategy",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/latrunculi.json"
+}

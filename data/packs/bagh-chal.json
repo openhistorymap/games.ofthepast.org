@@ -1,0 +1,77 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "bagh-chal",
+  "name": "Bagh-Chal",
+  "description": "Four tigers hunt; twenty goats try to pen them in — a perfectly uneven duel.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MjAgNzIwIiB3aWR0aD0iNzIwIiBoZWlnaHQ9IjcyMCI+PHJlY3Qgd2lkdGg9IjcyMCIgaGVpZ2h0PSI3MjAiIGZpbGw9IiNlOGQ4YjYiLz48bGluZSB4MT0iMTIwLjAiIHkxPSIxMjAuMCIgeDI9IjYwMC4wIiB5Mj0iMTIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjEyMC4wIiB5MT0iMjQwLjAiIHgyPSI2MDAuMCIgeTI9IjI0MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIxMjAuMCIgeTE9IjM2MC4wIiB4Mj0iNjAwLjAiIHkyPSIzNjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMTIwLjAiIHkxPSI0ODAuMCIgeDI9IjYwMC4wIiB5Mj0iNDgwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjEyMC4wIiB5MT0iNjAwLjAiIHgyPSI2MDAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIxMjAuMCIgeTE9IjEyMC4wIiB4Mj0iMTIwLjAiIHkyPSI2MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMjQwLjAiIHkxPSIxMjAuMCIgeDI9IjI0MC4wIiB5Mj0iNjAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjM2MC4wIiB5MT0iMTIwLjAiIHgyPSIzNjAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI0ODAuMCIgeTE9IjEyMC4wIiB4Mj0iNDgwLjAiIHkyPSI2MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNjAwLjAiIHkxPSIxMjAuMCIgeDI9IjYwMC4wIiB5Mj0iNjAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjEyMC4wIiB5MT0iMTIwLjAiIHgyPSIyNDAuMCIgeTI9IjI0MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjEyMC4wIiB4Mj0iMTIwLjAiIHkyPSIyNDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMzYwLjAiIHkxPSIxMjAuMCIgeDI9IjQ4MC4wIiB5Mj0iMjQwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjQ4MC4wIiB5MT0iMTIwLjAiIHgyPSIzNjAuMCIgeTI9IjI0MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIyNDAuMCIgeTE9IjI0MC4wIiB4Mj0iMzYwLjAiIHkyPSIzNjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMzYwLjAiIHkxPSIyNDAuMCIgeDI9IjI0MC4wIiB5Mj0iMzYwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjQ4MC4wIiB5MT0iMjQwLjAiIHgyPSI2MDAuMCIgeTI9IjM2MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI2MDAuMCIgeTE9IjI0MC4wIiB4Mj0iNDgwLjAiIHkyPSIzNjAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMTIwLjAiIHkxPSIzNjAuMCIgeDI9IjI0MC4wIiB5Mj0iNDgwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iMzYwLjAiIHgyPSIxMjAuMCIgeTI9IjQ4MC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIzNjAuMCIgeTE9IjM2MC4wIiB4Mj0iNDgwLjAiIHkyPSI0ODAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNDgwLjAiIHkxPSIzNjAuMCIgeDI9IjM2MC4wIiB5Mj0iNDgwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjI0MC4wIiB5MT0iNDgwLjAiIHgyPSIzNjAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIzNjAuMCIgeTE9IjQ4MC4wIiB4Mj0iMjQwLjAiIHkyPSI2MDAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNDgwLjAiIHkxPSI0ODAuMCIgeDI9IjYwMC4wIiB5Mj0iNjAwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjYwMC4wIiB5MT0iNDgwLjAiIHgyPSI0ODAuMCIgeTI9IjYwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjEyMC4wIiBjeT0iMTIwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMjQwLjAiIGN5PSIxMjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzNjAuMCIgY3k9IjEyMC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQ4MC4wIiBjeT0iMTIwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNjAwLjAiIGN5PSIxMjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIxMjAuMCIgY3k9IjI0MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iMjQwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzYwLjAiIGN5PSIyNDAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0ODAuMCIgY3k9IjI0MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjYwMC4wIiBjeT0iMjQwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMTIwLjAiIGN5PSIzNjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIyNDAuMCIgY3k9IjM2MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjM2MC4wIiBjeT0iMzYwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNDgwLjAiIGN5PSIzNjAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI2MDAuMCIgY3k9IjM2MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjEyMC4wIiBjeT0iNDgwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMjQwLjAiIGN5PSI0ODAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzNjAuMCIgY3k9IjQ4MC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQ4MC4wIiBjeT0iNDgwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNjAwLjAiIGN5PSI0ODAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIxMjAuMCIgY3k9IjYwMC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI0MC4wIiBjeT0iNjAwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzYwLjAiIGN5PSI2MDAuMCIgcj0iMTEiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0ODAuMCIgY3k9IjYwMC4wIiByPSIxMSIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjYwMC4wIiBjeT0iNjAwLjAiIHI9IjExIiBmaWxsPSIjNGYzNzIwIi8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.15
+  },
+  "pieces": [
+    {
+      "type": "tiger",
+      "label": "Tiger (bagh)",
+      "glyph": "🐅"
+    },
+    {
+      "type": "goat",
+      "label": "Goat (bakhra)",
+      "glyph": "",
+      "bg": "#efe4cc"
+    }
+  ],
+  "setup": [
+    {
+      "type": "tiger",
+      "x": 0.1667,
+      "y": 0.1667
+    },
+    {
+      "type": "tiger",
+      "x": 0.8333,
+      "y": 0.1667
+    },
+    {
+      "type": "tiger",
+      "x": 0.1667,
+      "y": 0.8333
+    },
+    {
+      "type": "tiger",
+      "x": 0.8333,
+      "y": 0.8333
+    }
+  ],
+  "turns": {
+    "players": [
+      "Goats",
+      "Tigers"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Tigers: capture five goats. Goats: block all four tigers so none can move.",
+    "setup": "A 5×5 lattice (the alquerque grid). The four tigers begin on the corner points; the goats are all off the board, held in hand.",
+    "howToPlay": [
+      "The goat player goes first and, while goats remain in hand, must place one goat on an empty point each turn (goats cannot move yet).",
+      "A tiger moves one step along a line to an adjacent empty point, or captures by jumping a single adjacent goat to the empty point beyond.",
+      "Once all twenty goats are placed, goats may also move one step along a line."
+    ],
+    "winning": "Tigers win by capturing five goats; goats win by trapping every tiger with no legal move.",
+    "variants": [
+      "Aadu puli aatam (South India) and similar tiger games use the same idea on different grids."
+    ],
+    "players": "2",
+    "duration": "10–20 min"
+  },
+  "context": {
+    "period": "Nepal, traditional (still widely played)",
+    "blurb": "Bagh-Chal — 'moving tigers' — is the national board game of Nepal, one of a great family of Asian hunt games in which a few powerful predators face a swarm of prey. Played on the same 5×5 alquerque lattice found from Egypt to India, it is a study in asymmetry: the tigers are strong but few, the goats weak but many, and good play on each side feels completely different. Brass bagh-chal boards are a common Nepali craft.",
+    "sources": [
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford.",
+      "Parlett, D. (1999). The Oxford History of Board Games."
+    ]
+  }
+}

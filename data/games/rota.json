@@ -1,0 +1,71 @@
+{
+  "id": "rota",
+  "name": "Rota",
+  "native": "Rota",
+  "aka": [
+    "The wheel",
+    "Roman round merels"
+  ],
+  "category": "alignment",
+  "origin": "Ancient Rome",
+  "region": "Europe",
+  "era": "late antiquity",
+  "players": "2",
+  "duration": "5 min",
+  "wp": "Rota (game)",
+  "reconstruction": true,
+  "tagline": "A wheel of eight spokes — the round cousin of three-in-a-row.",
+  "rules": {
+    "objective": "Line up your three pieces through the hub of the wheel.",
+    "setup": "A wheel with eight points on the rim and one at the centre, joined by spokes. Each player has three pieces.",
+    "howToPlay": [
+      "Take turns placing your three pieces on empty points.",
+      "Then take turns sliding a piece along a line (spoke or rim) to the next empty point.",
+      "A line of three must pass through the central hub to count."
+    ],
+    "winning": "Three in a row through the centre wins.",
+    "variants": [
+      "A common handicap lets only the second player occupy the centre first, balancing the strong opening."
+    ],
+    "players": "2",
+    "duration": "5 min"
+  },
+  "context": {
+    "period": "Roman Empire, late antiquity",
+    "blurb": "Rota — Latin for 'wheel' — is a circular three-in-a-row game known from wheel-shaped boards scratched in Roman pavements, including at Ostia. Eight rim points and a central hub make it a round relative of terni lapilli. As with most of these scratched games no rulebook survives, so the moves here are a sensible modern reconstruction.",
+    "sources": [
+      "Bell, R. C. (1979). Board and Table Games from Many Civilizations. Dover."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjYwMCI+PHJlY3Qgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9IiNlOGQ4YjYiLz48Y2lyY2xlIGN4PSIzMDAuMCIgY3k9IjMwMC4wIiByPSIyMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI1Ii8+PGxpbmUgeDE9IjMwMC4wIiB5MT0iNzAuMCIgeDI9IjMwMC4wIiB5Mj0iNTMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjEzNy40IiB5MT0iMTM3LjQiIHgyPSI0NjIuNiIgeTI9IjQ2Mi42IiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSI3MC4wIiB5MT0iMzAwLjAiIHgyPSI1MzAuMCIgeTI9IjMwMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxsaW5lIHgxPSIxMzcuNCIgeTE9IjQ2Mi42IiB4Mj0iNDYyLjYiIHkyPSIxMzcuNCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIzMDAuMCIgY3k9IjcwLjAiIHI9IjE0IiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMTM3LjQiIGN5PSIxMzcuNCIgcj0iMTQiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI3MC4wIiBjeT0iMzAwLjAiIHI9IjE0IiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMTM3LjQiIGN5PSI0NjIuNiIgcj0iMTQiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzMDAuMCIgY3k9IjUzMC4wIiByPSIxNCIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQ2Mi42IiBjeT0iNDYyLjYiIHI9IjE0IiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNTMwLjAiIGN5PSIzMDAuMCIgcj0iMTQiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI0NjIuNiIgY3k9IjEzNy40IiByPSIxNCIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjMwMC4wIiBjeT0iMzAwLjAiIHI9IjE0IiBmaWxsPSIjNGYzNzIwIi8+PC9zdmc+",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.11
+  },
+  "pieces": [
+    {
+      "type": "a",
+      "label": "Album (bone)",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "r",
+      "label": "Ruber (terracotta)",
+      "glyph": "",
+      "bg": "#a8412e"
+    }
+  ],
+  "setup": [],
+  "turns": {
+    "players": [
+      "Album",
+      "Ruber"
+    ],
+    "track": true
+  },
+  "category_label": "Alignment",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/rota.json"
+}

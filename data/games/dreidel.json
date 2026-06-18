@@ -1,0 +1,90 @@
+{
+  "id": "dreidel",
+  "name": "Dreidel",
+  "native": "סביבון Sevivon",
+  "aka": [
+    "Sevivon",
+    "Put-and-take top"
+  ],
+  "category": "dice",
+  "origin": "Ashkenazi Jewish Europe",
+  "region": "Europe",
+  "era": "by c. 19th c. CE",
+  "players": "2+",
+  "duration": "10–20 min",
+  "wp": "Dreidel",
+  "reconstruction": false,
+  "tagline": "A four-sided top spun at Hanukkah — nun, gimel, hey, shin: nothing, all, half, put in.",
+  "rules": {
+    "objective": "Win the whole pot of tokens (coins, nuts or chocolate gelt).",
+    "setup": "A four-sided spinning top lettered נ ג ה ש. Each player antes one token into the centre pot.",
+    "howToPlay": [
+      "Spin the dreidel on your turn and act on the letter that lands up:",
+      "נ Nun — nothing happens. ג Gimel — take the whole pot. ה Hey — take half the pot. ש Shin — put one token in.",
+      "When the pot is empty or low, everyone antes again."
+    ],
+    "winning": "Play until one player has won all the tokens.",
+    "variants": [
+      "The letters stand for nes gadol haya sham — 'a great miracle happened there' (in Israel, po, 'here')."
+    ],
+    "players": "2+",
+    "duration": "10–20 min"
+  },
+  "context": {
+    "period": "Ashkenazi Europe, popularised in the 19th century",
+    "blurb": "The dreidel (Yiddish; Hebrew sevivon) is a four-sided spinning top played at Hanukkah, a Jewish version of the European teetotum 'put-and-take' gambling tops (the German letters N-G-H-S once stood for Nichts, Ganz, Halb, Stell-ein). Reinterpreted as the initials of nes gadol haya sham — 'a great miracle happened there' — it became a children's holiday game, the chance of the spin standing in for the wonder of the festival.",
+    "sources": [
+      "Trachtenberg, J. (1939). Jewish Magic and Superstition.",
+      "Parlett, D. (1999). The Oxford History of Board Games."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYyMCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIyMiIgeT0iMjIiIHdpZHRoPSI4NTYiIGhlaWdodD0iNTc2IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjMyIiB5PSIzMiIgd2lkdGg9IjgzNiIgaGVpZ2h0PSI1NTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGVsbGlwc2UgY3g9IjQ1MC4wIiBjeT0iMzEwLjAiIHJ4PSIyNTAiIHJ5PSIxNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjUiLz48dGV4dCB4PSI0NTAuMCIgeT0iMzMyLjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9Ijg0IiBsZXR0ZXItc3BhY2luZz0iMTIiIGZpbGw9IiM2YjRhMmEiIG9wYWNpdHk9IjAuMjIiPtegINeSINeUINepPC90ZXh0Pjwvc3ZnPg==",
+    "aspect": 1.4516,
+    "color": "#211a12",
+    "pieceSize": 0.06
+  },
+  "pieces": [
+    {
+      "type": "gelt",
+      "label": "Gelt (token)",
+      "glyph": "✸",
+      "color": "#c8a24e",
+      "bg": "#3a2c1a"
+    },
+    {
+      "type": "nut",
+      "label": "Nut",
+      "glyph": "🌰"
+    }
+  ],
+  "setup": [],
+  "dice": [
+    {
+      "id": "dreidel",
+      "label": "Dreidel",
+      "glyph": "🔄",
+      "count": 1,
+      "faces": [
+        {
+          "label": "נ Nun — nothing"
+        },
+        {
+          "label": "ג Gimel — all"
+        },
+        {
+          "label": "ה Hey — half"
+        },
+        {
+          "label": "ש Shin — put in"
+        }
+      ]
+    }
+  ],
+  "turns": {
+    "track": true
+  },
+  "category_label": "Dice & lots",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/dreidel.json"
+}

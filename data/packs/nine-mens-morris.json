@@ -1,0 +1,57 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "nine-mens-morris",
+  "name": "Nine Men's Morris",
+  "description": "Form a mill of three and pluck an enemy off — the great medieval line game.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNjQwIiB3aWR0aD0iNjQwIiBoZWlnaHQ9IjY0MCI+PHJlY3Qgd2lkdGg9IjY0MCIgaGVpZ2h0PSI2NDAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIyNCIgeT0iMjQiIHdpZHRoPSI1OTIiIGhlaWdodD0iNTkyIiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjM0IiB5PSIzNCIgd2lkdGg9IjU3MiIgaGVpZ2h0PSI1NzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNjAiIHk9IjYwIiB3aWR0aD0iNTIwIiBoZWlnaHQ9IjUyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48cmVjdCB4PSIxNzAiIHk9IjE3MCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHJlY3QgeD0iMjgwIiB5PSIyODAiIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iMzIwLjAiIHkxPSI2MC4wIiB4Mj0iMzIwLjAiIHkyPSIyODAuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjQiLz48bGluZSB4MT0iMzIwLjAiIHkxPSI1ODAuMCIgeDI9IjMyMC4wIiB5Mj0iMzYwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjYwLjAiIHkxPSIzMjAuMCIgeDI9IjI4MC4wIiB5Mj0iMzIwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PGxpbmUgeDE9IjU4MC4wIiB5MT0iMzIwLjAiIHgyPSIzNjAuMCIgeTI9IjMyMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjYwLjAiIGN5PSI2MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjMyMC4wIiBjeT0iNjAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSI1ODAuMCIgY3k9IjYwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNjAuMCIgY3k9IjMyMC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjU4MC4wIiBjeT0iMzIwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNjAuMCIgY3k9IjU4MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjMyMC4wIiBjeT0iNTgwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNTgwLjAiIGN5PSI1ODAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIxNzAuMCIgY3k9IjE3MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjMyMC4wIiBjeT0iMTcwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iNDcwLjAiIGN5PSIxNzAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIxNzAuMCIgY3k9IjMyMC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQ3MC4wIiBjeT0iMzIwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMTcwLjAiIGN5PSI0NzAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzMjAuMCIgY3k9IjQ3MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjQ3MC4wIiBjeT0iNDcwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMjgwLjAiIGN5PSIyODAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzMjAuMCIgY3k9IjI4MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjM2MC4wIiBjeT0iMjgwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMjgwLjAiIGN5PSIzMjAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzNjAuMCIgY3k9IjMyMC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjxjaXJjbGUgY3g9IjI4MC4wIiBjeT0iMzYwLjAiIHI9IjEyIiBmaWxsPSIjNGYzNzIwIi8+PGNpcmNsZSBjeD0iMzIwLjAiIGN5PSIzNjAuMCIgcj0iMTIiIGZpbGw9IiM0ZjM3MjAiLz48Y2lyY2xlIGN4PSIzNjAuMCIgY3k9IjM2MC4wIiByPSIxMiIgZmlsbD0iIzRmMzcyMCIvPjwvc3ZnPg==",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.055
+  },
+  "pieces": [
+    {
+      "type": "w",
+      "label": "White",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "b",
+      "label": "Black",
+      "glyph": "",
+      "bg": "#2b241c"
+    }
+  ],
+  "turns": {
+    "players": [
+      "White",
+      "Black"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "Reduce your opponent to two pieces, or leave them unable to move.",
+    "setup": "Three concentric squares joined at the side midpoints — 24 points in all. Each player has nine pieces, all off the board to start.",
+    "howToPlay": [
+      "First, take turns placing your nine pieces one at a time on empty points.",
+      "Then take turns moving a piece along a line to an adjacent empty point.",
+      "Whenever you form a 'mill' — three of your pieces in a line — remove one enemy piece not itself in a mill.",
+      "A player reduced to three pieces may 'fly' to any empty point."
+    ],
+    "winning": "Win by reducing the opponent to two pieces or by blocking all their moves.",
+    "variants": [
+      "Three, six and twelve men's morris vary the board and piece count; twelve adds the diagonals."
+    ],
+    "players": "2",
+    "duration": "10–20 min"
+  },
+  "context": {
+    "period": "Roman world onward; ubiquitous in medieval Europe",
+    "blurb": "Nine men's morris — merels, mill, mühle — is the classic line-and-capture game of the western world. Boards are cut into Roman tiles, into the cloister seats of English cathedrals, into ship timbers and tavern benches across medieval Europe. Shakespeare names it: 'the nine men's morris is filled up with mud.' Simple to learn and sharp to master, it has been weakly solved — perfect play is a draw.",
+    "sources": [
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford.",
+      "Shakespeare, W. A Midsummer Night's Dream II.i."
+    ]
+  }
+}

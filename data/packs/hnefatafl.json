@@ -1,0 +1,191 @@
+{
+  "schema": "boardgame/1.1",
+  "id": "hnefatafl",
+  "name": "Hnefatafl",
+  "description": "A king and his guard break out as twice their number close in — the Viking game of escape.",
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NzQgNzc0IiB3aWR0aD0iNzc0IiBoZWlnaHQ9Ijc3NCI+PHJlY3Qgd2lkdGg9Ijc3NCIgaGVpZ2h0PSI3NzQiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSI0IiB5PSI0IiB3aWR0aD0iNzgiIGhlaWdodD0iNzgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNjkyIiB5PSI0IiB3aWR0aD0iNzgiIGhlaWdodD0iNzgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNCIgeT0iNjkyIiB3aWR0aD0iNzgiIGhlaWdodD0iNzgiIGZpbGw9IiNkOWMzOTkiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHJlY3QgeD0iNjkyIiB5PSI2OTIiIHdpZHRoPSI3OCIgaGVpZ2h0PSI3OCIgZmlsbD0iI2Q5YzM5OSIgc3Ryb2tlPSIjOWM3YTQ4IiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSIzNDgiIHk9IjM0OCIgd2lkdGg9Ijc4IiBoZWlnaHQ9Ijc4IiBmaWxsPSIjZDljMzk5IiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjM4Ny4wIiBjeT0iMzg3LjAiIHI9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNiNDQ3MmUiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSIwLjAiIHgyPSIwLjAiIHkyPSI3NzQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iODYuMCIgeTE9IjAuMCIgeDI9Ijg2LjAiIHkyPSI3NzQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMTcyLjAiIHkxPSIwLjAiIHgyPSIxNzIuMCIgeTI9Ijc3NC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIyNTguMCIgeTE9IjAuMCIgeDI9IjI1OC4wIiB5Mj0iNzc0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjM0NC4wIiB5MT0iMC4wIiB4Mj0iMzQ0LjAiIHkyPSI3NzQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNDMwLjAiIHkxPSIwLjAiIHgyPSI0MzAuMCIgeTI9Ijc3NC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI1MTYuMCIgeTE9IjAuMCIgeDI9IjUxNi4wIiB5Mj0iNzc0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjYwMi4wIiB5MT0iMC4wIiB4Mj0iNjAyLjAiIHkyPSI3NzQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iNjg4LjAiIHkxPSIwLjAiIHgyPSI2ODguMCIgeTI9Ijc3NC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSI3NzQuMCIgeTE9IjAuMCIgeDI9Ijc3NC4wIiB5Mj0iNzc0LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjAuMCIgeDI9Ijc3NC4wIiB5Mj0iMC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSI4Ni4wIiB4Mj0iNzc0LjAiIHkyPSI4Ni4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSIxNzIuMCIgeDI9Ijc3NC4wIiB5Mj0iMTcyLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjI1OC4wIiB4Mj0iNzc0LjAiIHkyPSIyNTguMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iMzQ0LjAiIHgyPSI3NzQuMCIgeTI9IjM0NC4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSI0MzAuMCIgeDI9Ijc3NC4wIiB5Mj0iNDMwLjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9IjUxNi4wIiB4Mj0iNzc0LjAiIHkyPSI1MTYuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48bGluZSB4MT0iMC4wIiB5MT0iNjAyLjAiIHgyPSI3NzQuMCIgeTI9IjYwMi4wIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iMyIvPjxsaW5lIHgxPSIwLjAiIHkxPSI2ODguMCIgeDI9Ijc3NC4wIiB5Mj0iNjg4LjAiIHN0cm9rZT0iIzZiNGEyYSIgc3Ryb2tlLXdpZHRoPSIzIi8+PGxpbmUgeDE9IjAuMCIgeTE9Ijc3NC4wIiB4Mj0iNzc0LjAiIHkyPSI3NzQuMCIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjMiLz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNzc0IiBoZWlnaHQ9Ijc3NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNmI0YTJhIiBzdHJva2Utd2lkdGg9IjYiLz48cmVjdCB4PSIxMCIgeT0iMTAiIHdpZHRoPSI3NTQiIGhlaWdodD0iNzU0IiBmaWxsPSJub25lIiBzdHJva2U9IiM5YzdhNDgiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==",
+    "aspect": 1.0,
+    "color": "#211a12",
+    "pieceSize": 0.0911
+  },
+  "pieces": [
+    {
+      "type": "def",
+      "label": "Defender (Swede)",
+      "glyph": "",
+      "bg": "#efe4cc"
+    },
+    {
+      "type": "att",
+      "label": "Attacker (Muscovite)",
+      "glyph": "",
+      "bg": "#2b241c"
+    },
+    {
+      "type": "king",
+      "label": "The King",
+      "glyph": "♚",
+      "color": "#c8a24e",
+      "bg": "#efe4cc"
+    }
+  ],
+  "setup": [
+    {
+      "type": "king",
+      "x": 0.5,
+      "y": 0.5
+    },
+    {
+      "type": "def",
+      "x": 0.5,
+      "y": 0.2778
+    },
+    {
+      "type": "def",
+      "x": 0.5,
+      "y": 0.3889
+    },
+    {
+      "type": "def",
+      "x": 0.5,
+      "y": 0.6111
+    },
+    {
+      "type": "def",
+      "x": 0.5,
+      "y": 0.7222
+    },
+    {
+      "type": "def",
+      "x": 0.2778,
+      "y": 0.5
+    },
+    {
+      "type": "def",
+      "x": 0.3889,
+      "y": 0.5
+    },
+    {
+      "type": "def",
+      "x": 0.6111,
+      "y": 0.5
+    },
+    {
+      "type": "def",
+      "x": 0.7222,
+      "y": 0.5
+    },
+    {
+      "type": "att",
+      "x": 0.3889,
+      "y": 0.0556
+    },
+    {
+      "type": "att",
+      "x": 0.5,
+      "y": 0.0556
+    },
+    {
+      "type": "att",
+      "x": 0.6111,
+      "y": 0.0556
+    },
+    {
+      "type": "att",
+      "x": 0.5,
+      "y": 0.1667
+    },
+    {
+      "type": "att",
+      "x": 0.3889,
+      "y": 0.9444
+    },
+    {
+      "type": "att",
+      "x": 0.5,
+      "y": 0.9444
+    },
+    {
+      "type": "att",
+      "x": 0.6111,
+      "y": 0.9444
+    },
+    {
+      "type": "att",
+      "x": 0.5,
+      "y": 0.8333
+    },
+    {
+      "type": "att",
+      "x": 0.0556,
+      "y": 0.3889
+    },
+    {
+      "type": "att",
+      "x": 0.0556,
+      "y": 0.5
+    },
+    {
+      "type": "att",
+      "x": 0.0556,
+      "y": 0.6111
+    },
+    {
+      "type": "att",
+      "x": 0.1667,
+      "y": 0.5
+    },
+    {
+      "type": "att",
+      "x": 0.9444,
+      "y": 0.3889
+    },
+    {
+      "type": "att",
+      "x": 0.9444,
+      "y": 0.5
+    },
+    {
+      "type": "att",
+      "x": 0.9444,
+      "y": 0.6111
+    },
+    {
+      "type": "att",
+      "x": 0.8333,
+      "y": 0.5
+    }
+  ],
+  "turns": {
+    "players": [
+      "Attackers",
+      "King's side"
+    ],
+    "track": true
+  },
+  "rules": {
+    "objective": "The king's side: get the king to a corner refuge. The attackers: capture the king first.",
+    "setup": "This pack uses the well-documented 9×9 tablut layout: the king on the central throne with 8 defenders around him in a cross, and 16 attackers in a block of four on each edge.",
+    "howToPlay": [
+      "All pieces move any number of empty squares orthogonally, like a rook. Only the king may rest on the throne or a corner.",
+      "Capture an ordinary piece by flanking it between two of yours (or a piece and the throne/corner) along a line — it is taken when you close the bracket.",
+      "The king is captured when the attackers surround him on all four sides (or against the throne)."
+    ],
+    "winning": "The king wins by reaching any corner square; the attackers win by capturing the king before he escapes.",
+    "variants": [
+      "Larger boards (11×11 hnefatafl, 13×13 alea evangelii, 7×7 brandubh) change the balance.",
+      "Some rules let the king escape to any edge rather than a corner."
+    ],
+    "players": "2",
+    "duration": "15–30 min"
+  },
+  "context": {
+    "period": "Northern Europe, Migration period through the Viking Age",
+    "blurb": "The tafl games — hnefatafl, 'the king's table' — were the great board games of the Norse and Germanic world before chess arrived. Uniquely, the two sides are unequal: a king and his guard, outnumbered two to one, try to break through a ring of besiegers to freedom. The rules were lost, but in 1732 Carl Linnaeus, travelling in Lapland, recorded a living Sámi version called tablut — the single best evidence we have, and the basis of the 9×9 game here. It is still a partial reconstruction, so we flag it.",
+    "sources": [
+      "Linnaeus, C. (1732). Iter Lapponicum (Lachesis Lapponica).",
+      "Murray, H. J. R. (1952). A History of Board-Games Other Than Chess. Oxford."
+    ]
+  }
+}

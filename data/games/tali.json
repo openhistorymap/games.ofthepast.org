@@ -1,0 +1,90 @@
+{
+  "id": "tali",
+  "name": "Tali",
+  "native": "Tali / ἀστράγαλοι",
+  "aka": [
+    "Astragali",
+    "Knucklebones"
+  ],
+  "category": "dice",
+  "origin": "Greece & Rome",
+  "region": "Europe",
+  "era": "archaic through late antiquity",
+  "players": "2+",
+  "duration": "10 min",
+  "wp": "Astragalus (game)",
+  "reconstruction": false,
+  "tagline": "Four knucklebones, four faces — throw for the Venus and avoid the Dog.",
+  "rules": {
+    "objective": "Throw the best combination of the four tali — and win the stakes.",
+    "setup": "Four tali (sheep or goat knucklebones). Each lands on one of four faces, valued 1, 3, 4 and 6 (the two narrow ends never settle). Put up a wager.",
+    "howToPlay": [
+      "Each player in turn throws all four tali, from the hand or a fritillus (dice-cup).",
+      "Read the four faces. Special named throws beat any plain total.",
+      "The Venus (iactus Venereus) — all four faces different (1·3·4·6) — is the best throw of all.",
+      "The Dog (canis) — all four showing 1 — is the worst."
+    ],
+    "winning": "Best throw takes the pot; play to an agreed number of rounds or until the stakes run out.",
+    "variants": [
+      "Children played a skill version (like jacks): toss and catch the bones on the back of the hand."
+    ],
+    "players": "2+",
+    "duration": "10 min"
+  },
+  "context": {
+    "period": "Greek & Roman, archaic through late antiquity",
+    "blurb": "Tali (Greek astragaloi) were knucklebones — the small ankle bones of sheep or goats — used as four-sided dice valued 1, 3, 4 and 6. The throw of four different faces was the 'Venus', the luckiest; four ones the 'Dog', the worst. Augustus mentions losing happily at tali in a letter quoted by Suetonius. Bronze, glass and crystal tali survive, and children played a skill game of toss-and-catch with the same bones across the ancient world.",
+    "sources": [
+      "Suetonius, Divus Augustus 71.",
+      "Becq de Fouquières, L. (1873). Les Jeux des Anciens."
+    ]
+  },
+  "board": {
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYyMCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MjAiIGZpbGw9IiNlOGQ4YjYiLz48cmVjdCB4PSIyMiIgeT0iMjIiIHdpZHRoPSI4NTYiIGhlaWdodD0iNTc2IiBmaWxsPSJub25lIiBzdHJva2U9IiM2YjRhMmEiIHN0cm9rZS13aWR0aD0iNiIvPjxyZWN0IHg9IjMyIiB5PSIzMiIgd2lkdGg9IjgzNiIgaGVpZ2h0PSI1NTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGVsbGlwc2UgY3g9IjQ1MC4wIiBjeT0iMzEwLjAiIHJ4PSIyNTAiIHJ5PSIxNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzljN2E0OCIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjUiLz48dGV4dCB4PSI0NTAuMCIgeT0iMzMyLjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9Ijg0IiBsZXR0ZXItc3BhY2luZz0iMTIiIGZpbGw9IiM2YjRhMmEiIG9wYWNpdHk9IjAuMjIiPlZFTlZTPC90ZXh0Pjwvc3ZnPg==",
+    "aspect": 1.4516,
+    "color": "#211a12",
+    "pieceSize": 0.06
+  },
+  "pieces": [
+    {
+      "type": "stake",
+      "label": "Denarius (stake)",
+      "glyph": "✸",
+      "color": "#c8a24e",
+      "bg": "#3a2c1a"
+    }
+  ],
+  "setup": [],
+  "dice": [
+    {
+      "id": "tali",
+      "label": "Tali",
+      "glyph": "🦴",
+      "count": 4,
+      "faces": [
+        {
+          "label": "I",
+          "value": 1
+        },
+        {
+          "label": "III",
+          "value": 3
+        },
+        {
+          "label": "IV",
+          "value": 4
+        },
+        {
+          "label": "VI",
+          "value": 6
+        }
+      ]
+    }
+  ],
+  "turns": {
+    "track": true
+  },
+  "category_label": "Dice & lots",
+  "schema": "boardgame/1.1",
+  "pack_path": "data/packs/tali.json"
+}
