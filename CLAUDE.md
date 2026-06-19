@@ -19,10 +19,10 @@ is the **world's gaming table**.
    roster into machine-owned `data/`: a compact index, a per-game detail record,
    and — the key artefact — a **`boardgame/1.1` pack** per game under
    `data/packs/<id>.json`.
-2. **The launcher** is `JustPlayBo/whitechapel` (the JustPlay shared-board engine,
+2. **The launcher** is `JustPlayBo/launcher` (the JustPlay shared-board engine,
    working tree at `/srv/justplay-sy`). Each game's **▶ Play with friends** button
    deep-links into it:
-   `https://justplaybo.github.io/whitechapel/?game=<absolute pack URL>&room=<code>`.
+   `https://justplaybo.github.io/launcher/?game=<absolute pack URL>&room=<code>`.
    The launcher fetches the pack (GitHub Pages serves it CORS-`*`), renders the
    board + pieces, and syncs moves over MQTT. Because the pack carries `rules`,
    `context`, `dice` and `turns`, players land at the table already knowing **how

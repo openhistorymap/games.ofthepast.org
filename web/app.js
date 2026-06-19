@@ -32,7 +32,7 @@
   /* ---------- launcher deep link ---------- */
   function launcherBase() {
     return (state.manifest && state.manifest.launcher && state.manifest.launcher.base)
-      || "https://justplaybo.github.io/whitechapel/";
+      || "https://justplaybo.github.io/launcher/";
   }
   function playUrl(packPath, withRoom) {
     const packAbs = new URL(packPath, location.href).href;       // absolute, CORS-readable on Pages
